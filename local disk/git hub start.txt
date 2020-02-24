@@ -1,0 +1,21 @@
+git --version
+git config --global user.name "shoaibmiran"
+git config --global user.email "msmeeran2014@gmail.com"
+git config --list
+cd C:\Users\shoaib\shoaib-works\GIT-STRABERIDATA-2
+echo "# GIT-STRABERIDATA-2" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/shoaibmiran/GIT-STRABERIDATA-2
+ git push -u origin master
+
+
+
+
+
+
+
+for every repository diffe
+
+git remote add origin https://github.com/shoaibmiran/GIT-STRABERIDATA-2.git

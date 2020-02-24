@@ -1,0 +1,427 @@
+{
+  "data": [{
+    "name": "Transport"
+  }, {
+    "name": "Trains"
+  }, {
+    "name": "Tours"
+  }, {
+    "name": "Taxi"
+  }, {
+    "name": "Tailor made Holidays"
+  }, {
+    "name": "Specialty  Tours"
+  }, {
+    "name": "Sightseeing"
+  }, {
+    "name": "shogai"
+  }, {
+    "name": "Meals"
+  }, {
+    "name": "Land Package"
+  }, {
+    "name": "INDIA"
+  }, {
+    "name": "IH-RELAND"
+  }, {
+    "name": "HPHILIPPINES"
+  }, {
+    "name": "Hotels"
+  }, {
+    "name": "HISRAEL"
+  }, {
+    "name": "HCZECH REPUBLIC"
+  }, {
+    "name": "H-VIETNAM"
+  }, {
+    "name": "H-UTTARAKHAND"
+  }, {
+    "name": "H-USA"
+  }, {
+    "name": "H-UNITED KINGDOM"
+  }, {
+    "name": "H-UAE"
+  }, {
+    "name": "H-TURKEY"
+  }, {
+    "name": "H-THAILAND"
+  }, {
+    "name": "H-TAMIL NADU"
+  }, {
+    "name": "H-TAIWAN"
+  }, {
+    "name": "H-SWITZERLAND"
+  }, {
+    "name": "H-SWEDEN"
+  }, {
+    "name": "H-SRILANKA"
+  }, {
+    "name": "H-SPAIN"
+  }, {
+    "name": "H-SOUTH AMERICA"
+  }, {
+    "name": "H-SOUTH AFRICA"
+  }, {
+    "name": "H-SLOVAKIA"
+  }, {
+    "name": "H-SINGAPORE"
+  }, {
+    "name": "H-SIKKIM"
+  }, {
+    "name": "H-RUSSIA"
+  }, {
+    "name": "H-ROMANIA"
+  }, {
+    "name": "H-REUNION"
+  }, {
+    "name": "H-RAJASTHAN"
+  }, {
+    "name": "H-QATAR"
+  }, {
+    "name": "H-PUNJAB"
+  }, {
+    "name": "H-PORTUGAL"
+  }, {
+    "name": "H-PACIFIC"
+  }, {
+    "name": "H-OMAN"
+  }, {
+    "name": "H-ODISHA"
+  }, {
+    "name": "H-NORWAY"
+  }, {
+    "name": "H-NORTH EAST"
+  }, {
+    "name": "H-NEW ZEALAND"
+  }, {
+    "name": "H-NEPAL"
+  }, {
+    "name": "H-MOROCCO"
+  }, {
+    "name": "H-MIDDLE EAST"
+  }, {
+    "name": "H-MAURITIUS"
+  }, {
+    "name": "H-MALDIVES"
+  }, {
+    "name": "H-MALAYSIA"
+  }, {
+    "name": "H-MAHARASHTRA"
+  }, {
+    "name": "H-MADHYA PRADESH"
+  }, {
+    "name": "H-MADAGASCAR"
+  }, {
+    "name": "H-LEH AND LADAKH"
+  }, {
+    "name": "H-KOREA"
+  }, {
+    "name": "H-KERALA"
+  }, {
+    "name": "H-KENYA"
+  }, {
+    "name": "H-KARNATAKA"
+  }, {
+    "name": "H-JORDAN"
+  }, {
+    "name": "H-JAPAN"
+  }, {
+    "name": "H-JAMMU AND KASHMIR"
+  }, {
+    "name": "H-ITALY & AUSTRIA"
+  }, {
+    "name": "H-ITALY"
+  }, {
+    "name": "H-ISLANDS"
+  }, {
+    "name": "H-International Destinations"
+  }, {
+    "name": "H-INDONESIA"
+  }, {
+    "name": "H-INDIA"
+  }, {
+    "name": "H-ICELAND"
+  }, {
+    "name": "H-HUNGARY"
+  }, {
+    "name": "H-HONG KONG"
+  }, {
+    "name": "H-HIMACHAL PRADESH"
+  }, {
+    "name": "H-GUJARAT"
+  }, {
+    "name": "H-GREENLAND"
+  }, {
+    "name": "H-GREECE"
+  }, {
+    "name": "H-GOA"
+  }, {
+    "name": "H-GERMANY"
+  }, {
+    "name": "H-FRANCE"
+  }, {
+    "name": "H-FINLAND"
+  }, {
+    "name": "H-FIJI"
+  }, {
+    "name": "H-EUROPE"
+  }, {
+    "name": "H-EGYPT"
+  }, {
+    "name": "H-Domestic Destinations"
+  }, {
+    "name": "H-DENMARK"
+  }, {
+    "name": "H-DELHI"
+  }, {
+    "name": "H-CROATIA"
+  }, {
+    "name": "H-CHINA"
+  }, {
+    "name": "H-CENTRAL AMERICA"
+  }, {
+    "name": "H-CANADA"
+  }, {
+    "name": "H-CAMBODIA"
+  }, {
+    "name": "H-BULGARIA"
+  }, {
+    "name": "H-BOTSWANA"
+  }, {
+    "name": "H-BHUTAN"
+  }, {
+    "name": "H-BELGIUM"
+  }, {
+    "name": "H-AUSTRIA"
+  }, {
+    "name": "H-AUSTRALIA"
+  }, {
+    "name": "H-ASIA"
+  }, {
+    "name": "H-ARMENIA"
+  }, {
+    "name": "H-ANDHRA PRADESH"
+  }, {
+    "name": "H-ANDAMAN"
+  }, {
+    "name": "H-AMERICAS"
+  }, {
+    "name": "H-ALBANIA"
+  }, {
+    "name": "H-ALASKA"
+  }, {
+    "name": "H-AFRICA"
+  }, {
+    "name": "Group Tours"
+  }, {
+    "name": "Economy Tours"
+  }, {
+    "name": "Domestic Destinations"
+  }, {
+    "name": "Corporate Travels"
+  }, {
+    "name": "Buses"
+  }, {
+    "name": "All Item Groups"
+  }, {
+    "name": "Airlines"
+  }, {
+    "name": "Arunachal Pradesh"
+  }, {
+    "name": "Meghalaya"
+  }, {
+    "name": "ASSAM"
+  }, {
+    "name": "VIETNAM"
+  }, {
+    "name": "UTTARAKHAND"
+  }, {
+    "name": "USA"
+  }, {
+    "name": "UNITED KINGDOM"
+  }, {
+    "name": "UAE"
+  }, {
+    "name": "TURKEY"
+  }, {
+    "name": "THAILAND"
+  }, {
+    "name": "TAMIL NADU"
+  }, {
+    "name": "TAIWAN"
+  }, {
+    "name": "SWITZERLAND"
+  }, {
+    "name": "SWEDEN"
+  }, {
+    "name": "SRILANKA"
+  }, {
+    "name": "SPAIN"
+  }, {
+    "name": "SOUTH AMERICA"
+  }, {
+    "name": "SOUTH AFRICA"
+  }, {
+    "name": "SLOVAKIA"
+  }, {
+    "name": "SINGAPORE"
+  }, {
+    "name": "SIKKIM"
+  }, {
+    "name": "Services"
+  }, {
+    "name": "RUSSIA"
+  }, {
+    "name": "ROMANIA"
+  }, {
+    "name": "REUNION"
+  }, {
+    "name": "RAJASTHAN"
+  }, {
+    "name": "QATAR"
+  }, {
+    "name": "PUNJAB"
+  }, {
+    "name": "PORTUGAL"
+  }, {
+    "name": "PHILIPPINES"
+  }, {
+    "name": "Passport"
+  }, {
+    "name": "PACIFIC"
+  }, {
+    "name": "OMAN"
+  }, {
+    "name": "ODISHA"
+  }, {
+    "name": "NORWAY"
+  }, {
+    "name": "NORTH EAST"
+  }, {
+    "name": "NEW ZEALAND"
+  }, {
+    "name": "NEPAL"
+  }, {
+    "name": "MOROCCO"
+  }, {
+    "name": "MIDDLE EAST"
+  }, {
+    "name": "MAURITIUS"
+  }, {
+    "name": "MALDIVES"
+  }, {
+    "name": "MALAYSIA"
+  }, {
+    "name": "MAHARASHTRA"
+  }, {
+    "name": "MADHYA PRADESH"
+  }, {
+    "name": "MADAGASCAR"
+  }, {
+    "name": "LEH AND LADAKH"
+  }, {
+    "name": "KOREA"
+  }, {
+    "name": "KERALA"
+  }, {
+    "name": "KENYA"
+  }, {
+    "name": "KARNATAKA"
+  }, {
+    "name": "JORDAN"
+  }, {
+    "name": "JAPAN"
+  }, {
+    "name": "JAMMU AND KASHMIR"
+  }, {
+    "name": "ITALY & AUSTRIA"
+  }, {
+    "name": "ITALY"
+  }, {
+    "name": "ISRAEL"
+  }, {
+    "name": "ISLANDS"
+  }, {
+    "name": "IRELAND"
+  }, {
+    "name": "International Destinations"
+  }, {
+    "name": "INDONESIA"
+  }, {
+    "name": "ICELAND"
+  }, {
+    "name": "HUNGARY"
+  }, {
+    "name": "HONG KONG"
+  }, {
+    "name": "HIMACHAL PRADESH"
+  }, {
+    "name": "GUJARAT"
+  }, {
+    "name": "GREENLAND"
+  }, {
+    "name": "GREECE"
+  }, {
+    "name": "GOA"
+  }, {
+    "name": "GERMANY"
+  }, {
+    "name": "FRANCE"
+  }, {
+    "name": "FINLAND"
+  }, {
+    "name": "FIJI"
+  }, {
+    "name": "EUROPE"
+  }, {
+    "name": "EGYPT"
+  }, {
+    "name": "DENMARK"
+  }, {
+    "name": "DELHI"
+  }, {
+    "name": "CZECH REPUBLIC"
+  }, {
+    "name": "CROATIA"
+  }, {
+    "name": "CHINA"
+  }, {
+    "name": "CENTRAL AMERICA"
+  }, {
+    "name": "CANADA"
+  }, {
+    "name": "CAMBODIA"
+  }, {
+    "name": "BULGARIA"
+  }, {
+    "name": "BOTSWANA"
+  }, {
+    "name": "BHUTAN"
+  }, {
+    "name": "BELGIUM"
+  }, {
+    "name": "AUSTRIA"
+  }, {
+    "name": "AUSTRALIA"
+  }, {
+    "name": "ASIA"
+  }, {
+    "name": "ARMENIA"
+  }, {
+    "name": "ANDHRA PRADESH"
+  }, {
+    "name": "ANDAMAN"
+  }, {
+    "name": "AMERICAS"
+  }, {
+    "name": "ALBANIA"
+  }, {
+    "name": "ALASKA"
+  }, {
+    "name": "AFRICA"
+  }, {
+    "name": "Visa"
+  }, {
+    "name": "Forex & Remittances"
+  }]
+}

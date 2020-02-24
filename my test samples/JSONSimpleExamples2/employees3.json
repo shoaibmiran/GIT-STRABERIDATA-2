@@ -1,0 +1,844 @@
+{ 
+    "_id" : "5ddfa643ab4b3948a671ba93", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "EXCITING SINGAPORE", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 364", 
+    "stay" : "3N SINGAPORE", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_547308.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-28T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 4, 
+    "nights" : 3, 
+    "package_id_INT" : 4723, 
+    "package_id" : "4723", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 364, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/75391234.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_rsz_1attraction_265_main_5a79294e8afb7.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1singapore-city-skyline-day-to-night-timelapse-singapore-hd-4k-time-lapse_hzeixxgxe_thumbnail-full09.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Hotel Aqueen Lavender\r\nor Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 364", 
+            "HT_TRIPLE" : "SGD 371", 
+            "HT_SINGLE" : "SGD 613", 
+            "CH_W_BED" : "SGD 365", 
+            "CH_WO_BED" : "SGD 171", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723007"
+        }, 
+        {
+            "HTL_NM1" : "Hotel Royal @ Queens or\r\nSimilar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 406", 
+            "HT_TRIPLE" : "SGD 399", 
+            "HT_SINGLE" : "SGD 698", 
+            "CH_W_BED" : "SGD 365", 
+            "CH_WO_BED" : "SGD 188", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723006"
+        }, 
+        {
+            "HTL_NM1" : "One Farrer hotel & Spa\r\nor Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 656", 
+            "HT_TRIPLE" : "SGD 551", 
+            "HT_SINGLE" : "SGD 1202", 
+            "CH_W_BED" : "SGD 312", 
+            "CH_WO_BED" : "SGD 195", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723005"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Adults travelling together at all tours.", 
+        "Prices not valid during Block out Dates mentioned Above AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 pm and Check Out time 12:00 noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Peak Season Dates : - 24, 25 Dec and 30 & 31 Dec 2019 / 01 Jan 2020.", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia(02-05 Mar 2020) and (30 Mar - 02 Apr 2020)", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes"
+    ], 
+    "Inclusion" : [
+        "Three Nights Accommodation in Singapore city in suggested or similar hotels", 
+        "Daily breakfast except Day 1", 
+        "Half day Singapore city tour on Seat in Coach basis (SIC)", 
+        "Jurong Bird Park Singapore on Seat in Coach basis (SIC)", 
+        "Gardens by the Bay on Seat in Coach basis (SIC)", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers on on Seat in Coach basis (SIC)"
+    ], 
+    "created_on" : "2019-11-28T10:49:39.473+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Singapore - Half day city tour", 
+            "day_detail" : "On arrival in Changi International Airport you will be transferred to your hotel. Check in to the\r\nhotel. This morning we proceed on a half day city tour of Singapore visit Merlion Park, Chinatown,\r\nMount Faber, Jewellery Factory, Chocolate Shop, Little India. Overnight at the hotel in Singapore.\r\nOptional : Later in the evening proceed to Night Safari. The world’s first nocturnal wildlife park,\r\nthe Night Safari is one of Singapore’s best-known attraction.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddfa74fd196cd3ee7723004"
+        }, 
+        {
+            "day_header" : "Singapore – Jurong Bird Park", 
+            "day_detail" : "Today enjoy Jurong Bird Park in Singapore for a family-friendly adventure among various bird\r\nspecies, from parrots to penguins. Its is home to the world's largest walk-in lory flight aviary at\r\n3,000 square metres and over 9 stories high. Featuring 10 colourful lory species, this exhibit is a\r\nfavourite amongst guests who get to feed the gregarious lories a nectar mix while observing them\r\nup close. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddfa74fd196cd3ee7723003"
+        }, 
+        {
+            "day_header" : "Singapore – Gardens By the Bay", 
+            "day_detail" : "Today proceed for Gardens by the bay be mesmerised by stunning waterfront views at the award-\r\nwinning horticultural destination that is Gardens by the Bay. Gardens by the Bay offers an enjoyable\r\ntime for the entire family. Marvel at a city garden spanning 101 hectares of reclaimed land at\r\nGardens by the Bay. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddfa74fd196cd3ee7723002"
+        }, 
+        {
+            "day_header" : "Depart - Singapore", 
+            "day_detail" : "This morning you will be transferred to Changi International Airport for your flight back home or\r\nyour next destination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5ddfa74fd196cd3ee7723001"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 1
+}
+{ 
+    "_id" : "5ddd09e1b07690295bfa5607", 
+    "tour_category" : "domestic", 
+    "continent" : "INDIA", 
+    "state" : "MAHARASHTRA", 
+    "package_name" : "TARKARLI GETAWAY", 
+    "currency_code" : "INR", 
+    "pkg_cost" : "INR 8000", 
+    "stay" : "2N TARKARLI", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1tarkarli.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-23T00:00:00.000+0000", 
+    "validity_to" : "2020-12-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 3, 
+    "nights" : 2, 
+    "package_id_INT" : 4722, 
+    "package_id" : "4722", 
+    "created_by" : "DW9", 
+    "country" : "MAHARASHTRA", 
+    "cost_currency" : "INR", 
+    "cost_amt" : 8000, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tarkarli-village.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_gettyimages-520830422-591d69e93df78cf5fad8bdfd.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_diving-tarkarli.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Tarkarli : Grande Vista Or\r\nSimilar", 
+            "CATEGORY" : "STANDARD", 
+            "BASIS" : "PRIVATE", 
+            "HT_TWIN" : "INR 8000", 
+            "HT_TRIPLE" : "NA", 
+            "HT_SINGLE" : "NA", 
+            "CH_W_BED" : "INR 3000", 
+            "CH_WO_BED" : "INR 1500", 
+            "HT_EXTRA" : "INR 3000", 
+            "VALID_FROM" : "2019-11-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-12-31T00:00:00.000+0000", 
+            "_id" : "5ddd09e1b07690295bfa5608"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All prices are per person in Indian Rupees based on min 2 Adults travelling together", 
+        "Package is not valid during long weekend, high season, festive period / peak period", 
+        "For extra person, mattress will be provided not bed at all places", 
+        "Confirmation of Hotels, car hire and services are subject to availability ", 
+        "All rates and availability are subject to change at the time of booking", 
+        "Room category in all packages is the Base Category", 
+        "Vehicle will be given Point to Point as per itinerary & not on Disposal Basis", 
+        "All sightseeing is subject to weather conditions, political conditions in the destination", 
+        "All the prices are for Indian Nationals only, unless specified", 
+        "It is mandatory to carry a valid photo identity card (Passport / Driving License / Voter ID card) for security purpose & hotel policy", 
+        "Standard Check-in time 12:00 hrs - 14:00 hrs and Check-out time 10:00hrs - 12:00 hrs (Noon) as per the hotel policy", 
+        "Meals provided at the hotel (Breakfast/Lunch/Dinner) are based on a set menu and are on a buffet system basis. Anything other than the set menu will be charged extra. In room dining will be at an additional cost and has a different menu altogether. For any food related service issue we will not be responsible"
+    ], 
+    "exclusion" : [
+        "Airfare / Rail fare", 
+        "Government GST of 5%", 
+        "Meals not mentioned in the itinerary", 
+        "Expenses of personal nature", 
+        "Entrance fees", 
+        "Video and Camera permits", 
+        "Early check in & late check out at the hotels", 
+        "Any compulsory supplement during the stay", 
+        "Any other services not specified above"
+    ], 
+    "Inclusion" : [
+        "Two Nights Accommodation in Tarkarli", 
+        "Daily Breakfast ", 
+        null, 
+        null, 
+        null, 
+        "All transfers & sightseeing by AC vehicle"
+    ], 
+    "created_on" : "2019-11-26T11:17:53.846+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Mumbai - Tarkarli", 
+            "day_detail" : "On arrival at Mumbai airport/ railway station, you will transferred to the Hotel.\r\nOvernight at the Hotel in Tarkarli.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddd09e1b07690295bfa560b"
+        }, 
+        {
+            "day_header" : "Tarkarli", 
+            "day_detail" : "Today The day is at leisure. We suggest you to experience activities at the\r\nHotel.Overnight at the Hotel in Tarkarli.(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddd09e1b07690295bfa560a"
+        }, 
+        {
+            "day_header" : "Depart Tarkarli", 
+            "day_detail" : "This morning you will be transferred to Mumbai airport / railway station for your\r\nflight / train back home or your next destination.(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddd09e1b07690295bfa5609"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : "5ddbcaf5537ab32f8ef5e480", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "JAPAN", 
+    "package_name" : "CHERRY BLOSSOM IN JAPAN", 
+    "currency_code" : "JPY", 
+    "pkg_cost" : "JPY 207505", 
+    "stay" : "TOKYO & OSAKA", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_photo-1490806843957-31f4c9a91c65.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2020-03-23T00:00:00.000+0000", 
+    "validity_to" : "2020-04-12T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 8, 
+    "nights" : 7, 
+    "package_id_INT" : 4721, 
+    "package_id" : "4721", 
+    "created_by" : "EJ6", 
+    "country" : "JAPAN", 
+    "cost_currency" : "JPY", 
+    "cost_amt" : 207505, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_photo-1557409518-1b1ad1ac120d.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1blossoms-jcbupdate0318.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Tokyo: Villa Fontaine Hamamatsucho\r\n+Osaka: Hearton Nishiumeda or similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "JPY 207505", 
+            "HT_TRIPLE" : "JPY 207505", 
+            "HT_SINGLE" : "JPY 286255", 
+            "CH_W_BED" : "-", 
+            "CH_WO_BED" : "-", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2020-03-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-04-12T00:00:00.000+0000", 
+            "_id" : "5ddbcd4ac16df156ef0504ea"
+        }, 
+        {
+            "HTL_NM1" : "Tokyo: Metropolitan Ikebukuro +\r\nOsaka: Osaka Dai Chi or similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "JPY 242505", 
+            "HT_TRIPLE" : "JPY 242505", 
+            "HT_SINGLE" : "JPY 353755", 
+            "CH_W_BED" : "-", 
+            "CH_WO_BED" : "-", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2020-03-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-04-12T00:00:00.000+0000", 
+            "_id" : "5ddbcd4ac16df156ef0504e9"
+        }, 
+        {
+            "HTL_NM1" : "Tokyo: Hilton Tokyo + Osaka: Hilton\r\nOsaka or similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "JPY 338755", 
+            "HT_TRIPLE" : "JPY 338755", 
+            "HT_SINGLE" : "JPY 548755", 
+            "CH_W_BED" : "-", 
+            "CH_WO_BED" : "-", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2020-03-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-04-12T00:00:00.000+0000", 
+            "_id" : "5ddbcd4ac16df156ef0504e8"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are per person based on minimum 2 pax travelling together.", 
+        "Payments to be collected at the prevailing rate of exchange.", 
+        "All rates are subject to availability at the time of booking.", 
+        "The pricing is approximate fnal pricing to be given at the time of booking based on availability", 
+        "If certain entrances are closed during certain periods, alternative entrances will be provided.", 
+        "Please be informed that as these tours are on SIC basis, the pick up from hotels are from Selected 4 star and 5 star hotels only.", 
+        "Please note that when the date of stay at the hotel is a blackout date, the tour will not be operated.", 
+        "The passport should be valid for at least 6 months from the date of departure."
+    ], 
+    "exclusion" : [
+        "Airfare", 
+        "Airport taxes", 
+        "Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Train Station to Hotel transfer & Vice versa", 
+        "Local transfers to pick up and drop-of points for SIC tours", 
+        "Gratuities expected by Bell staf, Restaurant, Transfer and Tour staf and Drivers", 
+        "Any meals other than specifed above", 
+        "Any sightseeing, tours, transfers, event tickets & tours other than mentioned above not mentioned in package inclusions", 
+        "Any item of personal nature like mini-bar, portage, tips, etc", 
+        "All entrance fees and excursions not mentioned above"
+    ], 
+    "Inclusion" : [
+        "Three night accommodation at the suggested hotel in Tokyo.", 
+        "Four night accommodation at the suggested hotel in Osaka.", 
+        "All Transfers and Sightseeing as per itinerary on seat in coach basis", 
+        "Tokyo city tour", 
+        "Mt Fuji and Hakone tour by motor coach", 
+        "JR Pass (Ordinary Class – Unreserved seats)", 
+        "Full Day Kyoto and Nara tour", 
+        "Full day Hiroshima and Miyajima Island tour"
+    ], 
+    "created_on" : "2019-11-25T12:37:09.104+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Tokyo", 
+            "day_detail" : "Welcome to Japan. Upon arrival you will be transferred to the hotel on Seat In Coach\r\nbasis. Check in to the hotel. Rest of the day is on leisure. Overnight at the hotel in\r\nTokyo.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddbcd4ac16df156ef0504e7"
+        }, 
+        {
+            "day_header" : "Tokyo – Cherry Blossom Tour", 
+            "day_detail" : "This morning after breakfast at the hotel proceed to Cherry Blossom Tour. Head to\r\nthe designated locations on your own (hotels in Tokyo) for the Pickup. Meguro River\r\nChartered Cherry Blossom Cruise, then proceed to Chidorigafuchi, Shinjuku Gyoen.\r\nEnjoy the beautiful cherry blossom season and capture the scenic beauty in your\r\ncamera. Tour ends at Shinjuku West Exit. Overnight at the hotel in Tokyo. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddbcd4ac16df156ef0504e6"
+        }, 
+        {
+            "day_header" : "Tokyo – Mt. Fuji & Hakone Tour", 
+            "day_detail" : "Today proceed to visit Mt Fuji and Hakone. Gather at designated locations (hotels in\r\nTokyo) on your own and board the bus. Mt. Fuji 5th Station, Lake Ashi Cruise, Mt.\r\nKomagatake Ropeway. Depart Hakone and return to Tokyo by bus. Tour will disbands\r\nupon arrival at Ginza. Head to your hotel on your own. Overnight at the hotel in\r\nTokyo. (B & L)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddbcd4ac16df156ef0504e5"
+        }, 
+        {
+            "day_header" : "Tokyo – Osaka", 
+            "day_detail" : "Proceed to Tokyo Station on your own. Reach Tokyo Station and board the\r\nShinkansen Train from Tokyo To Osaka using your JR pass. Transfer to the hotel in\r\nyour own. Check in to the hotel. Overnight at the hotel in Osaka. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5ddbcd4ac16df156ef0504e4"
+        }, 
+        {
+            "day_header" : "Osaka – Kyoto And Nara Tour", 
+            "day_detail" : "Early morning proceed to proceed to departure point for Kyoto and Nara tour and\r\nvisit places such as Nijo Castle, Kinkaku-ji Temple. Then you will visit Imperial\r\nPalace. Imperial Palace is the former residence of the Imperial Family. Head to Nara.\r\nvisit Nara park, Todaiji Temple, the world's largest wooden building, which houses a\r\ncolossal image of Buddha, Kasuga Shrine, Nara Nagomikan. Tour ends after arriving\r\nat Osaka Station. Head to the hotel on your own. Overnight at the hotel in Osaka. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5ddbcd4ac16df156ef0504e3"
+        }, 
+        {
+            "day_header" : "Osaka – Hiroshima And Miyajima Island Tour", 
+            "day_detail" : "This morning after breakfast head to Shin-Osaka Station on own. Board the\r\nShinkansen Bullet train to Hiroshima by using the JR Pass . Tour start at Hiroshima\r\nStation, Miyajima, Itsukushima Shrine, Hiroshima Peace Memorial Park & Museum,\r\nAtomic Bomb Dome. Later in the evening depart from Hiroshima Station back to\r\nOsaka by Shinkansen Bullet train using your JR Pass. Head to the hotel on your own.\r\nOvernight at the hotel in Osaka. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5ddbcd4ac16df156ef0504e2"
+        }, 
+        {
+            "day_header" : "Osaka", 
+            "day_detail" : "Morning after breakfast. Today the day is at leisure you may explore Osaka's streets\r\nand markets on your own. Overnight at the hotel in Osaka. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 7, 
+            "_id" : "5ddbcd4ac16df156ef0504e1"
+        }, 
+        {
+            "day_header" : "Depart Osaka", 
+            "day_detail" : "Today proceed to Kansai airport to board fight to your home town/ Next Destination.\r\n(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 8, 
+            "_id" : "5ddbcd4ac16df156ef0504e0"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 1
+}
+{ 
+    "_id" : "5ddbb51ec16df156ef04ffa4", 
+    "tour_category" : "domestic", 
+    "continent" : "INDIA", 
+    "state" : "MAHARASHTRA", 
+    "package_name" : "GANPATIPULE GETAWAY", 
+    "currency_code" : "INR", 
+    "pkg_cost" : "INR 7000", 
+    "stay" : "2N GANPATIPULE", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_ganapatipule-beach.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-23T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 3, 
+    "nights" : 2, 
+    "package_id_INT" : 4720, 
+    "package_id" : "4720", 
+    "created_by" : "DW9", 
+    "country" : "MAHARASHTRA", 
+    "cost_currency" : "INR", 
+    "cost_amt" : 7000, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_ganpatipule-beach-banner-1.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_ganapatipule.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_22.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Ganpatipule : Greenleaf The\r\nResort & Spa Or Similar", 
+            "CATEGORY" : "DELUXE", 
+            "BASIS" : "PRIVATE", 
+            "HT_TWIN" : "INR", 
+            "HT_TRIPLE" : "NA", 
+            "HT_SINGLE" : "NA", 
+            "CH_W_BED" : "INR", 
+            "CH_WO_BED" : "INR", 
+            "HT_EXTRA" : "INR", 
+            "VALID_FROM" : "2019-11-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddbb51ec16df156ef04ffa5"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All prices are per person in Indian Rupees based on min 2 Adults travelling together", 
+        "Package is not valid during long weekend, high season, festive period / peak period", 
+        "For extra person, mattress will be provided not bed at all places", 
+        "Confirmation of Hotels, car hire and services are subject to availability", 
+        "All rates and availability are subject to change at the time of booking", 
+        "Room category in all packages is the Base Category", 
+        null, 
+        "Vehicle will be given Point to Point as per itinerary & not on Disposal Basis", 
+        "All sightseeing is subject to weather conditions, political conditions in the destination", 
+        "All the prices are for Indian Nationals only, unless specified", 
+        "It is mandatory to carry a valid photo identity card (Passport / Driving License / Voter ID card) for security purpose & hotel policy", 
+        "Standard Check-in time 12:00 hrs - 14:00 hrs and Check-out time 10:00hrs - 12:00 hrs (Noon) as per the hotel policy", 
+        "Meals provided at the hotel (Breakfast/Lunch/Dinner) are based on a set menu and are on a buffet system basis. Anything other than the set menu will be charged extra. In room dining will be at an additional cost and has a different menu altogether. For any food related service issue we will not be responsible"
+    ], 
+    "exclusion" : [
+        "Airfare / Rail fare", 
+        "Government GST of 5% ", 
+        "Meals not mentioned in the itinerary", 
+        "Expenses of personal nature", 
+        "Entrance fees", 
+        "Video and Camera permits", 
+        "Early check in & late check out at the hotels", 
+        "Any compulsory supplement during the stay", 
+        "Any other services not specified above"
+    ], 
+    "Inclusion" : [
+        "Two Nights Accommodation in Ganpatipule", 
+        "Daily Breakfast ", 
+        "All transfers & sightseeing by AC vehicle"
+    ], 
+    "created_on" : "2019-11-25T11:03:58.347+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Mumbai - Ganpatipule", 
+            "day_detail" : "On arrival at Mumbai airport/ railway station, you will transferred to\r\nHotel. Overnight at the Hotel in Ganpatipule.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddbb51ec16df156ef04ffa8"
+        }, 
+        {
+            "day_header" : "Ganpatipule", 
+            "day_detail" : "Today The day is at leisure. We suggest you to experience activities at the\r\nHotel.Overnight at the Hotel in Ganpatipule.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddbb51ec16df156ef04ffa7"
+        }, 
+        {
+            "day_header" : "Depart Ganpatipule", 
+            "day_detail" : "This morning you will be transferred to Mumbai airport / railway station for your\r\nflight / train back home or your next destination.(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddbb51ec16df156ef04ffa6"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : "5dce8ee4558a2f547a3612b7", 
+    "tour_category" : "domestic", 
+    "continent" : "INDIA", 
+    "state" : "BHUTAN", 
+    "package_name" : "BHUTAN - LAND OF THUNDER DRAGON", 
+    "currency_code" : "INR", 
+    "pkg_cost" : "INR 51800", 
+    "stay" : "2N PHUENTSHOLING - 2N THIMPHU – 2N PUNAKHA – 2N PARO", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tiger-nest-monastery.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2020-01-01T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 9, 
+    "nights" : 8, 
+    "package_id_INT" : 4719, 
+    "package_id" : "4719", 
+    "created_by" : "EK9", 
+    "country" : "BHUTAN", 
+    "cost_currency" : "INR", 
+    "cost_amt" : 51800, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1buddha-dordenma-statue.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_131247630220_14a229b8b7_b-(1).jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_19164282_orig.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Phuentsholing : Lhaki Hotel Or Similar + Thimphu : Hotel White Tara Or Similar + Punakha : Hotel Pema Karpo Or Similar + Paro : Mandala Resort Or Similar", 
+            "CATEGORY" : "STANDARD", 
+            "BASIS" : "PRIVATE", 
+            "HT_TWIN" : "INR 51800", 
+            "HT_TRIPLE" : "NA", 
+            "HT_SINGLE" : "NA", 
+            "CH_W_BED" : "INR 21500", 
+            "CH_WO_BED" : "INR 16400", 
+            "HT_EXTRA" : "INR 21500", 
+            "VALID_FROM" : "2020-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dce8ff2bc8a562a69c92931"
+        }, 
+        {
+            "HTL_NM1" : "Phuentsholing : Hotel Druk Or Similar + Thimphu : Kisa Villa Or Similar + Punakha : Zhingkham Resort Or Similar + Paro : Tashi Namgay Resort & Spa Or\r\nSimilar", 
+            "CATEGORY" : "DELUXE", 
+            "BASIS" : "PRIVATE", 
+            "HT_TWIN" : "INR 57000", 
+            "HT_TRIPLE" : "NA", 
+            "HT_SINGLE" : "NA", 
+            "CH_W_BED" : "INR 23000", 
+            "CH_WO_BED" : "INR 18000", 
+            "HT_EXTRA" : "INR 23000", 
+            "VALID_FROM" : "2020-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dce8ff2bc8a562a69c92930"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "Passport scanned copy is must during the time of confrmation", 
+        "Validity of the passport should be more than 6 months from the date of departure from Bhutan", 
+        "Must get the entry permit/visa prior to arrival in Bhutan", 
+        "Permit from Phuentsholing is issued only after the guests entered Bhutan", 
+        "Permits are not issued on Saturdays, Sundays and on Bhutan Govt. holidays", 
+        "Internal route permits for visiting municipal areas other than (phuentsholing, thimphu, paro) is processed from Thimphu after your arrival", 
+        "To make advance E Permit, guide is mandatory throughout the tour.", 
+        "Hotels are very strict with the child policy. Please carry the age proof so that it can be produced when asked for", 
+        "Confrmation of Hotels, car hire and services are subject to availability", 
+        "All rates and availability are subject to change at the time of booking", 
+        "Rooms ofered will have one King or two Queen or Twin Beds and strictly subject to availability at the time of check in", 
+        "Room category in all packages is the Base Category", 
+        "Vehicles will be changed as per the transport regulations in the sector", 
+        "Vehicle will be given Point to Point as per itinerary & not on Disposal Basis", 
+        "Package is not valid during high season, festive period / peak period.", 
+        "Some of the sightseeing points might get closed on particular days therefore we reserve right to change the itinerary, however we will make sure everything is covered in best possible way", 
+        "All sightseeing is subject to weather conditions, political conditions in the destination", 
+        "All the prices are for Indian Nationals only, unless specifed", 
+        "It is mandatory to carry a valid photo identity card (Passport / Driving License / Voter ID card) for security purpose & hotel policy", 
+        "Meals provided at the hotel (Breakfast/Lunch/Dinner) are based on a set menu and are on a bufet system basis. Anything other than the set menu will be charged extra. In room dining will be at an additional cost and has a diferent menu altogether. For any food related service issue we will not be responsible"
+    ], 
+    "exclusion" : [
+        "Airfare / Railfare", 
+        "Government GST of 5%", 
+        "Meals not mentioned in the itinerary", 
+        "Expenses of personal nature", 
+        "Entrance fees", 
+        "Video and Camera permits", 
+        "Any supplementary services", 
+        "High Season Surcharges as applicable", 
+        "Porterage at hotels and airports, tips, insurance, laundry, liquors, wine", 
+        "Any cost arising due to natural calamities like landslides, roadblocks", 
+        "Early check in & late check out at the hotels", 
+        "Any compulsory supplement during the stay", 
+        "Any other services not specifed above"
+    ], 
+    "Inclusion" : [
+        "Two Nights Accommodation in Phuentsholing", 
+        "Two Nights Accommodation in Thimphu", 
+        "Two Nights Accommodatiaon in Punakha", 
+        "Two Nights Accommodation in Paro", 
+        "Daily breakfast except day 1", 
+        "Sightseeing as per Itinerary", 
+        "All internal permits", 
+        "All transfer & sightseeing by AC Vehicle"
+    ], 
+    "created_on" : "2019-11-15T11:41:24.781+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Phuentsholing (Approx 165 Kms / 5 hrs )", 
+            "day_detail" : "On arrival at Bagdogra airport / New Jalpaiguri railway station you will be\r\ntransferred to the hotel in Phuentsholing. Rest of the day is at leisure. Overnight at\r\nthe hotel in Phuentsholing", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5dce8ff2bc8a562a69c9292f"
+        }, 
+        {
+            "day_header" : "Phuentsholing – Thimphu (Approx 179 Kms / 5 hrs)", 
+            "day_detail" : "Today proceed to Thimpu through the mountains, this journey is of almost\r\nunbelievable beauty. The road leads from the northern Indian tea plantations through\r\nendless turns, hair pin bends and daring stretches carved into the mountain rock via\r\nChukka to Thimphu. Check in the hotel. Later in the evening spend some time in\r\nclock tower square. Overnight at the hotel in Thimpu. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5dce8ff2bc8a562a69c9292e"
+        }, 
+        {
+            "day_header" : "Thimphu Sightseeing", 
+            "day_detail" : "Today proceed to Sightseeing tour visit Folk Heritage Museum, National Library,\r\nHandicraft Center to view the traditional arts, Tashichho Dzong, Takin Zoo. Later\r\nNational Memorial Chorten a stupa dedicated to the third king of Bhutan and Buddha\r\nstatue. Rest of the day is at leisure. Overnight at the hotel in Thimpu. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5dce8ff2bc8a562a69c9292d"
+        }, 
+        {
+            "day_header" : "Thimphu – Punakha Via Dochula Pass (Approx 85 Kms / 2 hrs 30 mniutes)", 
+            "day_detail" : "Today drive to low lands of Punakha valley touching Dochula pass 10,000 ft and on\r\nthe stop at Hongtsho village. . Check in the hotel. Afternoon visit majestic Punakha\r\nDzong placed strategically at the junction of the Pho Chu and Mo Chu rivers, the\r\ndzong was built in 1637 by Zhabdrung Ngawang Namgyal to serve as the religious\r\nand administrative seat of the region. Later visit Punakha Dzong & Punakha\r\nSuspension Bridge. Rest of the day is at leisure. Overnight at the hotel in Punakha.\r\n(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5dce8ff2bc8a562a69c9292c"
+        }, 
+        {
+            "day_header" : "Punakha - Gangtey Valley Excursion", 
+            "day_detail" : "Today proceed to beautiful Gangtey valley via Wangdiphodrang Dzong strategically\r\nlocated on a ridge 4,430 ft that overlooks the highway that fork to the east and south\r\nof the country. This is an old town with Narrow Street with single storied shops and\r\nalso the gateway to central and eastern Bhutan. The Gangtey valley is one of the most\r\nbeautiful open valleys in Bhutan and is the winter home to the endangered black\r\nnecked cranes (Grus Nigricllis) which migrate to this valley around mid November\r\nfrom Tibet. These cranes have for centuries captured the human imagination with\r\ntheir intelligence, poise, sociality, beauty and freedom which have given rise to\r\nseveral myths, legends, folktales and songs. The birds fy back across the Himalayas\r\nto their summer home towards Tibet and China. The Gangtey village is small\r\ndominated by the yellow roofed Gangtey monastery. Overnight at the hotel in\r\nPunakha. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5dce8ff2bc8a562a69c9292b"
+        }, 
+        {
+            "day_header" : "Punakha - Paro (Approx 145 Kms / 4 hrs)", 
+            "day_detail" : "This morning drive to Paro and stop at Lamperi. Visit the Royal Botanical Park . In\r\nthe Afternoon visit ruins of Drukgyel Dzong and drive till the base of Tigers Nest.\r\nOvernight at the hotel in Paro. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5dce8ff2bc8a562a69c9292a"
+        }, 
+        {
+            "day_header" : "Paro", 
+            "day_detail" : "Today after breakfast enjoy Paro sightseeing visit Paro Dzong, National Museum.\r\nLater drive till the base of world famous “Tigers Nest “or popularly known as “Paro\r\nTaktsang” one of the popular spiritual heritage sites that literally hangs on a granite\r\nclif overlooking the Paro valley at 900m above the valley foor. The temple is\r\nassociated with Guru Rimpoche who visited in 8th century. Rest of the day is at\r\nleisure. Overnight at the hotel in Paro. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 7, 
+            "_id" : "5dce8ff2bc8a562a69c92929"
+        }, 
+        {
+            "day_header" : "Paro – Phuentsholing (Approx 143 Kms / 4 hrs)", 
+            "day_detail" : "Today Proceed to Phuentsholing visit Kharbandi Gompa. Rest of the day is at leisure.\r\nOvernight at the hotel in Phuentsholing. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 8, 
+            "_id" : "5dce8ff2bc8a562a69c92928"
+        }, 
+        {
+            "day_header" : "Depart Phuen tsholing", 
+            "day_detail" : "This morning you will be transferred to Bagdogra airport / New Jalpaiguri railway\r\nstation to board your fight/train back home or to your next destination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 9, 
+            "_id" : "5dce8ff2bc8a562a69c92927"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 1
+}

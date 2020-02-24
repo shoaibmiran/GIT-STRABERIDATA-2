@@ -1,0 +1,45 @@
+package com.tap.model;
+
+public class Package_Product_Alternatives_Item {
+
+	private String location = null;
+	private String category = null;
+	private String product = null;
+	private boolean isdefault=false;
+	
+	
+
+
+	public boolean isIsdefault() {
+		return isdefault;
+	}
+
+	public void setIsdefault(boolean isdefault) {
+		this.isdefault = isdefault;
+	}
+
+	public String getLocation() {
+		return location;
+	}
+
+	public void setLocation(String location) {
+		this.location = location;
+	}
+
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
+	public String getProduct() {
+		return product;
+	}
+
+	public void setProduct(String product) {
+		this.product = product;
+	}
+
+}

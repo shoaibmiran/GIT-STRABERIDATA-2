@@ -1,0 +1,48 @@
+package com.howtodoinjava.demo.jsonsimple;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.List;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+public class WriteJSONExample
+{
+    @SuppressWarnings("unchecked")
+	public static void main( String[] args )
+    {
+    	//First Employee
+    	JSONObject employeeDetails = new JSONObject();
+    	employeeDetails.put("firstName", "Lokesh");
+    	employeeDetails.put("lastName", "Gupta");
+    	employeeDetails.put("website", "howtodoinjava.com");
+    	
+    	JSONObject employeeObject = new JSONObject(); 
+    	((List) employeeObject).add(employeeDetails);
+    	
+    	//Second Employee
+    	JSONObject employeeDetails2 = new JSONObject();
+    	employeeDetails2.put("firstName", "Brian");
+    	employeeDetails2.put("lastName", "Schultz");
+    	employeeDetails2.put("website", "example.com");
+    	
+    	JSONObject employeeObject2 = new JSONObject(); 
+    	((List) employeeObject2).add(employeeDetails);
+    	
+    	//Add employees to list
+    	JSONArray employeeList = new JSONArray();
+    	employeeList.add(employeeObject);
+    	employeeList.add(employeeObject2);
+    	
+    	//Write JSON file
+    	try (FileWriter file = new FileWriter("employees7.json")) {
+
+            file.write(employeeList.toJSONString());
+            file.flush();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}

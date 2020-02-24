@@ -1,0 +1,31 @@
+Working: Domestic
+-----------------
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Basic.csv' INTO TABLE fit_package_catalog_basic COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'  LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Places.csv' INTO TABLE fit_package_catalog_places COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Calendar.csv' INTO TABLE fit_package_catalog_calender COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-transfer.csv' INTO TABLE fit_transfer_service COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Attractions.csv' INTO TABLE fit_attraction COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Itinerary.csv' INTO TABLE fit_package_catalog_itinerary COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+
+
+
+Working: Inter
+----------------
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Basic.csv' INTO TABLE fit_package_catalog_basic COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Places.csv' INTO TABLE fit_package_catalog_places COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Calender.csv' INTO TABLE fit_package_catalog_calender COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Transfer.csv' INTO TABLE fit_transfer_service COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Attractions.csv' INTO TABLE fit_attraction COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\merit\\Documents\\V1.4-Inter-Itinerary.csv' INTO TABLE fit_package_catalog_itinerary COLUMNS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+

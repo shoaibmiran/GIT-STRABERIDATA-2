@@ -1,0 +1,13 @@
+cd C:\Program Files\MongoDB\Server\4.2\bin
+
+mongod.exe --dbpath C:\Users\shoaib\mongodb
+open new cmd
+
+cd C:\Program Files\MongoDB\Server\4.2\bin
+
+mongo.exe
+
+
+
+
+mongorestore -d backyard C:\Users\shoaib\backyard-OCT-2019\backyard

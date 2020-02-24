@@ -1,0 +1,11 @@
+git --version
+git config --global user.name "shoaibmiran"
+git config --global user.email "msmeeran2014@gmail.com"
+git config --list
+cd C:\Users\shoaib\shoaib-works\GIT-StrawberiMasterData-1
+echo "# GIT-StrawberiMasterData-1" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/shoaibmiran/GIT-StrawberiMasterData-1.git
+ git push -u origin master

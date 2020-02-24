@@ -1,0 +1,303 @@
+{
+    "_id" : "5ddfa643ab4b3948a671ba93", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "EXCITING SINGAPORE", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 364", 
+    "stay" : "3N SINGAPORE", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_547308.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-28T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 4, 
+    "nights" : 3, 
+    "package_id_INT" : 4723, 
+    "package_id" : "4723", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 364, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/75391234.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_rsz_1attraction_265_main_5a79294e8afb7.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1singapore-city-skyline-day-to-night-timelapse-singapore-hd-4k-time-lapse_hzeixxgxe_thumbnail-full09.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Hotel Aqueen Lavender\r\nor Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 364", 
+            "HT_TRIPLE" : "SGD 371", 
+            "HT_SINGLE" : "SGD 613", 
+            "CH_W_BED" : "SGD 365", 
+            "CH_WO_BED" : "SGD 171", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723007"
+        },{
+            "HTL_NM1" : "Hotel Royal @ Queens or\r\nSimilar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 406", 
+            "HT_TRIPLE" : "SGD 399", 
+            "HT_SINGLE" : "SGD 698", 
+            "CH_W_BED" : "SGD 365", 
+            "CH_WO_BED" : "SGD 188", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723006"
+        }, 
+        {
+            "HTL_NM1" : "One Farrer hotel & Spa\r\nor Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 656", 
+            "HT_TRIPLE" : "SGD 551", 
+            "HT_SINGLE" : "SGD 1202", 
+            "CH_W_BED" : "SGD 312", 
+            "CH_WO_BED" : "SGD 195", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-28T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5ddfa74fd196cd3ee7723005"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Adults travelling together at all tours.", 
+        "Prices not valid during Block out Dates mentioned Above AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 pm and Check Out time 12:00 noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Peak Season Dates : - 24, 25 Dec and 30 & 31 Dec 2019 / 01 Jan 2020.", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia(02-05 Mar 2020) and (30 Mar - 02 Apr 2020)", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes"
+    ], 
+    "Inclusion" : [
+        "Three Nights Accommodation in Singapore city in suggested or similar hotels", 
+        "Daily breakfast except Day 1", 
+        "Half day Singapore city tour on Seat in Coach basis (SIC)", 
+        "Jurong Bird Park Singapore on Seat in Coach basis (SIC)", 
+        "Gardens by the Bay on Seat in Coach basis (SIC)", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers on on Seat in Coach basis (SIC)"
+    ], 
+    "created_on" : "2019-11-28T10:49:39.473+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Singapore - Half day city tour", 
+            "day_detail" : "On arrival in Changi International Airport you will be transferred to your hotel. Check in to the\r\nhotel. This morning we proceed on a half day city tour of Singapore visit Merlion Park, Chinatown,\r\nMount Faber, Jewellery Factory, Chocolate Shop, Little India. Overnight at the hotel in Singapore.\r\nOptional : Later in the evening proceed to Night Safari. The world’s first nocturnal wildlife park,\r\nthe Night Safari is one of Singapore’s best-known attraction.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddfa74fd196cd3ee7723004"
+        }, 
+        {
+            "day_header" : "Singapore – Jurong Bird Park", 
+            "day_detail" : "Today enjoy Jurong Bird Park in Singapore for a family-friendly adventure among various bird\r\nspecies, from parrots to penguins. Its is home to the world's largest walk-in lory flight aviary at\r\n3,000 square metres and over 9 stories high. Featuring 10 colourful lory species, this exhibit is a\r\nfavourite amongst guests who get to feed the gregarious lories a nectar mix while observing them\r\nup close. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddfa74fd196cd3ee7723003"
+        }, 
+        {
+            "day_header" : "Singapore – Gardens By the Bay", 
+            "day_detail" : "Today proceed for Gardens by the bay be mesmerised by stunning waterfront views at the award-\r\nwinning horticultural destination that is Gardens by the Bay. Gardens by the Bay offers an enjoyable\r\ntime for the entire family. Marvel at a city garden spanning 101 hectares of reclaimed land at\r\nGardens by the Bay. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddfa74fd196cd3ee7723002"
+        }, 
+        {
+            "day_header" : "Depart - Singapore", 
+            "day_detail" : "This morning you will be transferred to Changi International Airport for your flight back home or\r\nyour next destination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5ddfa74fd196cd3ee7723001"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 1
+		}
+	 {
+    "_id" : "5ddd09e1b07690295bfa5607", 
+    "tour_category" : "domestic", 
+    "continent" : "INDIA", 
+    "state" : "MAHARASHTRA", 
+    "package_name" : "TARKARLI GETAWAY", 
+    "currency_code" : "INR", 
+    "pkg_cost" : "INR 8000", 
+    "stay" : "2N TARKARLI", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1tarkarli.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-23T00:00:00.000+0000", 
+    "validity_to" : "2020-12-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 3, 
+    "nights" : 2, 
+    "package_id_INT" : 4722, 
+    "package_id" : "4722", 
+    "created_by" : "DW9", 
+    "country" : "MAHARASHTRA", 
+    "cost_currency" : "INR", 
+    "cost_amt" : 8000, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tarkarli-village.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_gettyimages-520830422-591d69e93df78cf5fad8bdfd.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_diving-tarkarli.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Tarkarli : Grande Vista Or\r\nSimilar", 
+            "CATEGORY" : "STANDARD", 
+            "BASIS" : "PRIVATE", 
+            "HT_TWIN" : "INR 8000", 
+            "HT_TRIPLE" : "NA", 
+            "HT_SINGLE" : "NA", 
+            "CH_W_BED" : "INR 3000", 
+            "CH_WO_BED" : "INR 1500", 
+            "HT_EXTRA" : "INR 3000", 
+            "VALID_FROM" : "2019-11-23T00:00:00.000+0000", 
+            "VALID_TO" : "2020-12-31T00:00:00.000+0000", 
+            "_id" : "5ddd09e1b07690295bfa5608"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All prices are per person in Indian Rupees based on min 2 Adults travelling together", 
+        "Package is not valid during long weekend, high season, festive period / peak period", 
+        "For extra person, mattress will be provided not bed at all places", 
+        "Confirmation of Hotels, car hire and services are subject to availability ", 
+        "All rates and availability are subject to change at the time of booking", 
+        "Room category in all packages is the Base Category", 
+        "Vehicle will be given Point to Point as per itinerary & not on Disposal Basis", 
+        "All sightseeing is subject to weather conditions, political conditions in the destination", 
+        "All the prices are for Indian Nationals only, unless specified", 
+        "It is mandatory to carry a valid photo identity card (Passport / Driving License / Voter ID card) for security purpose & hotel policy", 
+        "Standard Check-in time 12:00 hrs - 14:00 hrs and Check-out time 10:00hrs - 12:00 hrs (Noon) as per the hotel policy", 
+        "Meals provided at the hotel (Breakfast/Lunch/Dinner) are based on a set menu and are on a buffet system basis. Anything other than the set menu will be charged extra. In room dining will be at an additional cost and has a different menu altogether. For any food related service issue we will not be responsible"
+    ], 
+    "exclusion" : [
+        "Airfare / Rail fare", 
+        "Government GST of 5%", 
+        "Meals not mentioned in the itinerary", 
+        "Expenses of personal nature", 
+        "Entrance fees", 
+        "Video and Camera permits", 
+        "Early check in & late check out at the hotels", 
+        "Any compulsory supplement during the stay", 
+        "Any other services not specified above"
+    ], 
+    "Inclusion" : [
+        "Two Nights Accommodation in Tarkarli", 
+        "Daily Breakfast ", 
+        null, 
+        null, 
+        null, 
+        "All transfers & sightseeing by AC vehicle"
+    ], 
+    "created_on" : "2019-11-26T11:17:53.846+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Mumbai - Tarkarli", 
+            "day_detail" : "On arrival at Mumbai airport/ railway station, you will transferred to the Hotel.\r\nOvernight at the Hotel in Tarkarli.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5ddd09e1b07690295bfa560b"
+        }, 
+        {
+            "day_header" : "Tarkarli", 
+            "day_detail" : "Today The day is at leisure. We suggest you to experience activities at the\r\nHotel.Overnight at the Hotel in Tarkarli.(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5ddd09e1b07690295bfa560a"
+        }, 
+        {
+            "day_header" : "Depart Tarkarli", 
+            "day_detail" : "This morning you will be transferred to Mumbai airport / railway station for your\r\nflight / train back home or your next destination.(B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5ddd09e1b07690295bfa5609"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 0
+		}
+	

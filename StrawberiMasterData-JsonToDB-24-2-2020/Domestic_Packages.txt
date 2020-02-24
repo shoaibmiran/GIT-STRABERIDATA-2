@@ -1,0 +1,1853 @@
+{ 
+    "_id" : "5c9f5c7c1b4474491f91d208", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "HYDERABAD WITH RAMOJI", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 459", 
+    "stay" : "3N SINGAPORE", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_150806121501-sg-50---lead-image-super-169.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-11-01T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 4, 
+    "nights" : 3, 
+    "package_id_INT" : 4457, 
+    "package_id" : "4457", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 459, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_4universal-studios-singapore.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_3uss-far-far-away-shrek-4d-v2-1366x666.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_2wings-of-time-01.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_2merlion-park-and-marina-bay-1200x800.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" :  "Beijing : Xinzheju or similar + Shanghai : Rayfront Xuhui Hotel Shanghai or similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 459", 
+            "HT_TRIPLE" : "SGD 465", 
+            "HT_SINGLE" : "SGD 705", 
+            "CH_W_BED" : "SGD 449", 
+            "CH_WO_BED" : "SGD 255", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d932f1a089f970b711b2ce0"
+        }, 
+        {
+            "HTL_NM1" : "Phuentsholing : Lhaki Hotel Or Similar + Thimphu : Hotel White Tara Or Similar + Punakha : Hotel Pema Karpo Or Similar + Paro : Mandala Resort Or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 499", 
+            "HT_TRIPLE" : "SGD 490", 
+            "HT_SINGLE" : "SGD 790", 
+            "CH_W_BED" : "SGD 449", 
+            "CH_WO_BED" : "SGD 270", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d932f1a089f970b711b2cdf"
+        }, 
+        {
+            "HTL_NM1" : "One Farrer hotel & Spa\r\nor Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 749", 
+            "HT_TRIPLE" : "SGD 643", 
+            "HT_SINGLE" : "SGD 1295", 
+            "CH_W_BED" : "SGD 396", 
+            "CH_WO_BED" : "SGD 279", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d932f1a089f970b711b2cde"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Passengers travelling together at all tours.", 
+        "Prices not valid during Block out Dates mentioned below AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 pm and Check Out time 12:00 noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Peak Season Dates : 24, 25 Dec and 30 & 31 Dec 2019 / 01 Jan 2020.", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia(02-05 Mar 2020) and (30 Mar - 02 Apr 2020)"
+    ], 
+    "Inclusion" : [
+        "Three Nights Accommodation in Singapore in Suggested or Similar hotels", 
+        "Daily breakfast except Day 1", 
+        "Half day Singapore City Tour on Seat in Coach basis (SIC)", 
+        "Half day Sentosa Tour on Seat in Coach basis (SIC)(Cable Car + Madame Tussauds & Images of Singapore Live & Boat Ride &  Marvel 4D + Wings of Time)", 
+        "Universal Studio Singapore on Seat in Coach basis (SIC)", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers on on Seat in Coach basis (SIC)"
+    ], 
+    "created_on" : "2019-03-30T12:09:32.796+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Singapore", 
+            "day_detail" : "On arrival in Changi International Airport you will be transferred to your hotel. Check in to the\r\nhotel. Optional : Later in the evening proceed to Night Safari. The worldâ€™s first nocturnal wildlife\r\npark, the Night Safari is one of Singaporeâ€™s best-known attraction. Overnight at the hotel in\r\nSingapore.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5d932f1a089f970b711b2cdd"
+        }, 
+        {
+            "day_header" : "Singapore â€“ Half day city tour â€“ Half day Sentosa", 
+            "day_detail" : "This morning we proceed on a half day city tour of Singapore visit Merlion Park, Chinatown, Mount\r\nFaber, Jewellery Factory, Chocolate Shop, Little India. Later Proceed to Sentosa Island. Enjoy the\r\nnumerous attractions of the island with a day fun pass. Experience the Theme based Cable Car\r\nride from Mt. Faber to Sentosa Island. Visit Madamme Tussauds, Images of Singapore Alive,\r\n*Marvel 4D (New Super Hero Attraction), Merlion, watch the Wings of Time, a dazzling display of\r\nwater, laser and fire effects, set to majestic music and a panorama of breathtaking vistas. Overnight\r\nat the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5d932f1a089f970b711b2cdc"
+        }, 
+        {
+            "day_header" : "Singapore â€“ Universal Studio", 
+            "day_detail" : "Today you will be proceed to Universal Studios. Enjoy a day at the Universal Studios.\r\nGo beyond the screen and Ride The Movies at Universal Studios Singapore. Only here can you\r\nexperience cutting-edge rides, shows, and attractions based on your favourite blockbuster films and\r\ntelevision series, including Transformers The Ride: The Ultimate 3D Battle, Shrek 4-D Adventure,\r\nMadagascar: A Crate Adventure, Jurassic Park Rapids Adventure, and more! Overnight at the hotel\r\nin Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5d932f1a089f970b711b2cdb"
+        }, 
+        {
+            "day_header" : "Depart - Singapore", 
+            "day_detail" : "This morning you will be transferred to Changi International Airport for your flight back home or\r\nyour next destination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5d932f1a089f970b711b2cda"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 4
+}
+
+{ 
+    "_id" : "5d93204c089f970b711b2945", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "All of China", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 1019", 
+    "stay" : "2N SIN 2N SENTOSA", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_sentosa-island-singapore-1080x675.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2019-11-01T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 5, 
+    "nights" : 4, 
+    "package_id_INT" : 4696, 
+    "package_id" : "4696", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 1019, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1universal-studios-singapore.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1uss-far-far-away-shrek-4d-v2-1366x666.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_uss-lost-world-ride-dino-soarin-1366x666.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Singapore : Aqueen Hotel Lavender or\r\nSimilar + Sentosa : Amara Sanctuary\r\nResort or Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 1019", 
+            "HT_TRIPLE" : "SGD 635", 
+            "HT_SINGLE" : "SGD 1195", 
+            "CH_W_BED" : "SGD 670", 
+            "CH_WO_BED" : "SGD 345", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d93204c089f970b711b2948"
+        }, 
+        {
+            "HTL_NM1" : "Singapore : Hotel Royal @ Queens or\r\nSimilar + Sentosa : Amara Sanctuary\r\nResort or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 1045", 
+            "HT_TRIPLE" : "SGD 655", 
+            "HT_SINGLE" : "SGD 1250", 
+            "CH_W_BED" : "SGD 670", 
+            "CH_WO_BED" : "SGD 355", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d93204c089f970b711b2947"
+        }, 
+        {
+            "HTL_NM1" : "Singapore : One Farrer Hotel & Spa or\r\nSimilar + Sentosa : Amara Sanctuary\r\nResort or similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "SGD 1215", 
+            "HT_TRIPLE" : "SGD 755", 
+            "HT_SINGLE" : "SGD 1585", 
+            "CH_W_BED" : "SGD 635", 
+            "CH_WO_BED" : "SGD 360", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-11-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5d93204c089f970b711b2946"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Passengers travelling together at all tours.", 
+        "Prices not valid during Block out Dates mentioned below AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 PM and Check Out time 12:00 Noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Peak Season Dates : 24, 25 Dec and 30 & 31 Dec 2019 / 01 Jan 2020.", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia(02-05 Mar 2020) and (30 Mar - 02 Apr 2020)", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes"
+    ], 
+    "Inclusion" : [
+        "Two Nights Accommodation in Singapore city in suggested hotels or similar", 
+        "Two Nights Accomodation in Sentosa Island in Suggested hotels or Similar", 
+        "Daily breakfast except Day 1", 
+        "Half day city tour of Singapore on Seat in Coach basis (SIC)", 
+        "Sentosa Island tour on Seat in Coach basis (SIC)", 
+        "Universal Studio Singapore one day pass", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers are on Seat in Coach basis (SIC)"
+    ], 
+    "created_on" : "2019-10-01T09:45:48.395+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Singapore", 
+            "day_detail" : "On arrival in Changi International Airport you will be transferred to your hotel. Check in to the\r\nhotel. Optional : Later in the evening proceed to Night Safari The worldâ€™s first nocturnal wildlife\r\npark, the Night Safari is one of Singaporeâ€™s best-known attraction. Overnight at the hotel in\r\nSingapore.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5d93204c089f970b711b294d"
+        }, 
+        {
+            "day_header" : "Singapore â€“ Half Day City Tour", 
+            "day_detail" : "This morning we proceed on a half day city tour of Singapore visit Merlion Park, Chinatown, Mount\r\nFaber, Jewellery Factory, Chocolate Shop, Little India. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5d93204c089f970b711b294c"
+        }, 
+        {
+            "day_header" : "Singapore â€“ Sentosa Island - Universal Studio", 
+            "day_detail" : "This morning check out from the city hotel and transfer to Sentosa Island. Proceed to Universal\r\nStudio. Enjoy a day at the Universal Studios. Go beyond the screen and Ride The Movies at\r\nUniversal Studios Singapore. Only here can you experience cutting-edge rides, shows, and\r\nattractions based on your favourite blockbuster films and television series, including Transformers\r\nThe Ride: The Ultimate 3D Battle, Shrek 4-D Adventure, Madagascar: A Crate Adventure, Jurassic\r\nPark Rapids Adventure, and more! Overnight at the hotel in Sentosa Island. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5d93204c089f970b711b294b"
+        }, 
+        {
+            "day_header" : "Sentosa Island Tour", 
+            "day_detail" : "Enjoy the numerous attractions of the island with a day fun pass. Experience the Theme based\r\nCable Car ride from Mt. Faber to Sentosa Island. Visit Madamme Tussauds, Images of Singapore\r\nAlive, *Marvel 4D (New Super Hero Attraction), Merlion, watch the Wings of Time, a dazzling\r\ndisplay of water, laser and fire effects, set to majestic music and a panorama of breathtaking vistas.\r\nOvernight at the hotel in Sentosa Island. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5d93204c089f970b711b294a"
+        }, 
+        {
+            "day_header" : "Depart - Singapore", 
+            "day_detail" : "This morning you will be transferred to Changi International Airport for your flight back home or\r\nyour next destination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5d93204c089f970b711b2949"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 0
+}
+
+{ 
+    "_id" : "5ca2068fad6d5321876da94c", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "HONG KONG", 
+    "package_name" : "HONG KONG ESCAPADE", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 627", 
+    "stay" : "5N HONG KONG", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/48965.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-10-01T00:00:00.000+0000", 
+    "validity_to" : "2020-01-03T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 6, 
+    "nights" : 5, 
+    "package_id_INT" : 4486, 
+    "package_id" : "4486", 
+    "created_by" : "EL1", 
+    "country" : "HONG KONG", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 627, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/57863.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tour_img-898305-148_1.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_667537.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1img_5179.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Harbour Plaza 8 Degrees or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 627", 
+            "HT_TRIPLE" : "USD 579", 
+            "HT_SINGLE" : "USD 1068", 
+            "CH_W_BED" : "NA", 
+            "CH_WO_BED" : "USD 256", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-01-03T00:00:00.000+0000", 
+            "_id" : "5daad2c512b6c73360d14795"
+        }, 
+        {
+            "HTL_NM1" : "Harbour Grand Kowloon or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 715", 
+            "HT_TRIPLE" : "USD 644", 
+            "HT_SINGLE" : "USD 1109", 
+            "CH_W_BED" : "NA", 
+            "CH_WO_BED" : "USD 285", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-01-03T00:00:00.000+0000", 
+            "_id" : "5daad2c512b6c73360d14794"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are Per Person based on minimum 2 pax travelling together.", 
+        "Final payments will be collected at the prevailing rate of exchange on the date of final payment.", 
+        "All rates and services are subject to availability at the time of booking.", 
+        "Above is just a quote. We are not holding any hotel bookings at this point of time.", 
+        "Children refer to those who are under 12 yearsâ€™ old.", 
+        "The rates are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc. Sightseeing tours would have local English speaking guides.", 
+        "Hotel Block out dates include special events period, peak period, block out period and public holidays.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00.", 
+        "HARBOUR PLAZA 8 DEGRES : PEAK DAY 25Dec, 28Dec, 31Dec & 01Jan", 
+        "HARBOUR GRAND KOWLOON HOTEL : Rates are not valid between 01 - 05Oct, 12 - 15Oct, 19 - 21Oct & 26 â€“ 29Oct, Nov 12 â€“ 15"
+    ], 
+    "exclusion" : [
+        "Return Airfare.", 
+        "Taxes.", 
+        "Hong Kong Visa.", 
+        "Travel Insurance.", 
+        "GST of 5% on total package cost", 
+        "Lunch and Dinner.", 
+        "Personal expense.", 
+        "High Season Surcharges as applicable.", 
+        "Any item that is not mentioned in the above Tour Price includes."
+    ], 
+    "Inclusion" : [
+        "Five nightsâ€™ accommodation in Hong Kong at above mentioned hotel or similar.", 
+        "Daily Breakfast except on Day 1.", 
+        "Half Day City Tour of Hong Kong on Seat in Coach Basis. (SIC)", 
+        "Full Day Ocean Park Tour on Seat in Coach Basis. (SIC)", 
+        "Full Day Lantau Island With Ngong Ping 360 Cable Car on Seat in Coach Basis. (SIC)", 
+        "Return Airport Transfers on Seat in Coach Basis. (SIC)", 
+        "All transfers and sightseeings are on Seat in Coach Basis. (SIC)", 
+        "> If tour arrange on arrival date or departure date, passenger have to store their luggage at Ngong Ping Station at their own cost ($10 per luggage)", 
+        "Important Note : The above rates wonâ€™t be valid on below mentioned fair & peak dates."
+    ], 
+    "created_on" : "2019-04-01T12:39:43.991+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive - Hong Kong", 
+            "day_detail" : "Arrive at Hong Kong Airport and you will be met and transferred by our local representative to\r\nthe Hotel for check in. Rest of the day is free at leisure. Overnight at the hotel in Hong Kong.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5daad2c512b6c73360d14793"
+        }, 
+        {
+            "day_header" : "Hong Kong â€“ City Tour", 
+            "day_detail" : "This morning depart on a half day city tour of Hong Kong. Visit Water Front, Jewellery\r\nWorkshop, and Victoria Peak by Bus. Evening is at Leisure. Overnight at the hotel in Hong\r\nKong. (B)\r\nOptional : You can opt for Madame Tussauds on your own : USD 24 Per Person", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5daad2c512b6c73360d14792"
+        }, 
+        {
+            "day_header" : "Hong Kong - Full Day Ocean Park Tour", 
+            "day_detail" : "Today proceed for full day Ocean Park. It has modern world-class thrill rides, state of the art\r\naquariums, and zoo areas for both land and aquatic animals. It is a place for all ages to enjoy\r\nwith shows, entertainment, souvenir shops, and educational exhibits in a scenic parkland and\r\nocean setting. Overnight at the hotel in Hong Kong. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5daad2c512b6c73360d14791"
+        }, 
+        {
+            "day_header" : "Hong Kong - Lantau Island With Ngong Ping 360 Cable Car", 
+            "day_detail" : "This morning proceed to Lantau Island. Ngong Ping Cable Car connects downtown Tung\r\nChung and Ngong Ping on Lantau Island. You will be greeted with the vistas of the distant and\r\nvast South China Sea and the rolling greens of North Lantau Country Park. At the comfort of\r\nthe cabin, enjoy the breathtaking panorama of the Hong Kong International Airport, verdant,\r\nmountainous terrain of Lantau Island, the Big Buddha and the 360-degree view of Ngong Ping\r\nPlateau. Alight from the cable car cabin and you will arrive at Ngong Ping Village â€“ the best\r\nstarting point for your Hong Kong visit to â€œmust-seeâ€ attractions such as the Big Buddha, Po\r\nLin Monastery, Tai O fishing village, etc. Overnight at the hotel in Hong Kong. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5daad2c512b6c73360d14790"
+        }, 
+        {
+            "day_header" : "Hong Kong â€“ Day at Leisure", 
+            "day_detail" : "Today the day is at leisure to explore the city on your own. Overnight at the hotel in Hong\r\nKong. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5daad2c512b6c73360d1478f"
+        }, 
+        {
+            "day_header" : "Depart Hong Kong", 
+            "day_detail" : "Today you will be transferred to Hong Kong Airport to board flight to your Hometown. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5daad2c512b6c73360d1478e"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 10
+}
+{ 
+    "_id" : "5ca208362ceebb218184d2c7", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "HONG KONG", 
+    "package_name" : "DELIGHTS OF HONG KONG", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 862", 
+    "stay" : "3N HONG KONG 2N MACAO 2N SHENZHEN", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_lmp22.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-10-01T00:00:00.000+0000", 
+    "validity_to" : "2020-01-03T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 8, 
+    "nights" : 7, 
+    "package_id_INT" : 4488, 
+    "package_id" : "4488", 
+    "created_by" : "EL1", 
+    "country" : "HONG KONG", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 862, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1acb35808-151d-4a27-9fba-e412f256d513.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1hk-disneyland-fi.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1tour_img-898305-148.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_192464touractivitya10869db1e264be6afe187d95ad0fd26_sized.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_116810587.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_26716832903_c377c790c0_b.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Hong Kong : Harbour Plaza 8 Degres or Similar +\r\nMacao : Grand View Hotel or Similar + Shenzhen :\r\nCentury Plaza Hotel or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 862", 
+            "HT_TRIPLE" : "USD 791", 
+            "HT_SINGLE" : "USD 1338", 
+            "CH_W_BED" : "NA", 
+            "CH_WO_BED" : "USD 462", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-01-03T00:00:00.000+0000", 
+            "_id" : "5d8df72afb347279038ca2de"
+        }, 
+        {
+            "HTL_NM1" : "Hong Kong : Harbour Grand Kowloon\r\nHotel or Similar + Macao : Sheraton Macau or Similar +\r\nShenzhen : Best Western Felicity Hotel or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 991", 
+            "HT_TRIPLE" : "USD 897", 
+            "HT_SINGLE" : "USD 1462", 
+            "CH_W_BED" : "NA", 
+            "CH_WO_BED" : "USD 491", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-01-03T00:00:00.000+0000", 
+            "_id" : "5d8df72afb347279038ca2dd"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are Per Person based on minimum 2 pax travelling together.", 
+        "Final payments will be collected at the prevailing rate of exchange on the date of final payment.", 
+        "All rates and services are subject to availability at the time of booking.", 
+        "Above is just a quote. We are not holding any hotel bookings at this point of time.", 
+        "Children refer to those who are under 12 yearsâ€™ old.", 
+        "The rates are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc. Sightseeing tours would have local English speaking guides.", 
+        "Hotel Block out dates include special events period, peak period, block out period and public holidays.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00."
+    ], 
+    "exclusion" : [
+        "Return Airfares.", 
+        "Taxes.", 
+        "Hong Kong Visa.", 
+        "Travel Insurance.", 
+        "GST of 5% on total package cost", 
+        "Lunch and Dinner.", 
+        "Personal expense.", 
+        "High Season Surcharges as applicable.", 
+        "Any item that is not mentioned in the above Tour Price includes.", 
+        "HARBOUR PLAZA 8 DEGREES : PEAK DAY: 25Dec, 28Dec, 31Dec & 01Jan", 
+        "HARBOUR GRAND KOWLOON HOTEL : Rates are not valid between 01 - 05Oct, 12 - 15Oct, 19 - 21Oct & 26 â€“ 29Oct, Nov 12 â€“ 15", 
+        "GRAND VIEW HOTEL : Rates are not valid between Friday & Saturday, 21-26Dec & 31Dec-01Jan", 
+        "SHERATON MACAU : Rates are not valid between Friday & Saturday, 25Dec,30Dec & 2Jan"
+    ], 
+    "Inclusion" : [
+        "Three nightsâ€™ accommodation in Hong Kong at above mentioned hotel or similar.", 
+        "Two nightsâ€™ accommodation in Macao at above mentioned hotel or similar.", 
+        "Two nightsâ€™ accommodation in Shenzhen at above mentioned hotel or similar.", 
+        "Daily Breakfast except on Day 1.", 
+        "Half Day City Tour of Hong Kong on Seat in Coach Basis. (SIC)", 
+        "Half Day City Tour of Shenzhen on Seat in Coach Basis. (SIC)", 
+        "Half Day City Tour of Macao on Seat in Coach Basis. (SIC)", 
+        "Two way Day ferry ticket between (HKG Airport - Macao - Hong Kong city Pier â€“ Shenzhen â€“ HKG Airport) ( departure flight time must be after 14:00hrs)", 
+        "Return Airport Transfers on Seat in Coach Basis. (SIC)", 
+        "All transfers and sightseeings are on Seat in Coach Basis. (SIC)", 
+        "Important Note : The above rates wonâ€™t be valid on below mentioned fair & peak dates."
+    ], 
+    "created_on" : "2019-04-01T12:46:46.185+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Hong Kong - Macao", 
+            "day_detail" : "On arrival at Hong Kong International Airport you will be transferred to the Pier to board your\r\nferry to Macao. Arrive in Macao and proceed to your hotel. Check into the hotel. The rest of the\r\nday is at leisure for you to discover the city on your own. Overnight at the hotel in Macau.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5d8df72afb347279038ca2dc"
+        }, 
+        {
+            "day_header" : "Macao â€“ Half Day City Tour", 
+            "day_detail" : "This morning proceed on a half day city tour of Macao covering places like Ruins of St. Paul's,\r\nA-ma Temple, Cake Shop, Macao Tower (Observation Deck ticket not included) and Casino. The\r\nrest of the day is at leisure. Overnight at the hotel in Macau. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5d8df72afb347279038ca2db"
+        }, 
+        {
+            "day_header" : "Macau - Hong Kong", 
+            "day_detail" : "This morning you will be transferred to the pier to board the ferry to Hong Kong. Arrive in\r\nMacao and proceed to the hotel. Check into the hotel. The rest of the day is at leisure\r\nfor you to discover the city on your own. Overnight at the hotel in Hong Kong. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5d8df72afb347279038ca2da"
+        }, 
+        {
+            "day_header" : "Hong Kong â€“ Half Day City Tour", 
+            "day_detail" : "This morning depart on a half day city tour of Hong Kong. Visit Water Front, Jewellery\r\nWorkshop, and Victoria Peak by Bus. Evening is at Leisure. Overnight at the hotel in Hong\r\nKong. (B)\r\nOptional : You can opt for Madame Tussauds on your own : USD 24 Per Person", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5d8df72afb347279038ca2d9"
+        }, 
+        {
+            "day_header" : "Hong Kong â€“ Full Day Disneyland Tour", 
+            "day_detail" : "Today discover the fantasy world of the fairy-tale kingdom called Disneyland. Meet your favour-\r\nite Disney characters, watch live shows and parades, and shop and dine at all themed areas of\r\nthe Hong Kong Disneyland park. Overnight at the hotel in Hong Kong. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5d8df72afb347279038ca2d8"
+        }, 
+        {
+            "day_header" : "Hong Kong - Shenzhen", 
+            "day_detail" : "Today you will be transferred to the Pier to board your ferry to Shenzhen. Arrive in Shenzhen\r\nand proceed to your hotel. Check into the hotel. The rest of the day is at leisure for you to dis-\r\ncover the city on your own. Overnight at the hotel in Shenzhen. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5d8df72afb347279038ca2d7"
+        }, 
+        {
+            "day_header" : "Shenzhen â€“ City Tour", 
+            "day_detail" : "This morning proceed on a tour of Shenzhen covering places Window of the World, Lianhua\r\nPark, Bamboo Shop and enjoy some free time for shopping at Luohu Shopping Mall. Overnight\r\nat the hotel in Shenzhen. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 7, 
+            "_id" : "5d8df72afb347279038ca2d6"
+        }, 
+        {
+            "day_header" : "Depart Hong Kong", 
+            "day_detail" : "This morning you will be transferred to the pier to board the ferry to Hong Kong Airport to\r\nboard flight to your Hometown. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 8, 
+            "_id" : "5d8df72afb347279038ca2d5"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 7
+}
+{ 
+    "_id" : "5aacbacf66269f24e61fea24", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "CHINA", 
+    "package_name" : "DISCOVER CHINA", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 831", 
+    "stay" : "3N Beijing - 3N Shanghai", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_11.jpg", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-01-01T00:00:00.000+0000", 
+    "validity_to" : "2019-12-31T00:00:00.000+0000", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 7, 
+    "nights" : 6, 
+    "package_id_INT" : 3958, 
+    "package_id" : "3958", 
+    "created_by" : "EL1", 
+    "country" : "CHINA", 
+    "daywise_images" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_forbidden-city-temple-of-heaven-and-summer-palace-full-day-tour.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_jin-mao-tower-view-across-the-river.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tiananmen-square-beijing-china-1500x844.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_shutterstock_13dec16_fe_115_c71jj3_hero_0.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Beijing : Xinzheju or similar + Shanghai : Rayfront Xuhui Hotel Shanghai or similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 831", 
+            "HT_TRIPLE" : "USD 673", 
+            "HT_SINGLE" : "USD 1056", 
+            "CH_W_BED" : "USD 624", 
+            "CH_WO_BED" : "USD 417", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5c2c7772482a76574c8cf9a3"
+        }, 
+        {
+            "HTL_NM1" : "Beijing : Jiangxi Grand Hotel or similar category\r\nShanghai : Days Hotel Fortune or similar category", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 868", 
+            "HT_TRIPLE" : "USD 711", 
+            "HT_SINGLE" : "USD 1131", 
+            "CH_W_BED" : "USD 652", 
+            "CH_WO_BED" : "USD 436", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5c2c7772482a76574c8cf9a2"
+        }, 
+        {
+            "HTL_NM1" : "Beijing : Jianguo Garden Hotel or similar + Shanghai : Renaissance Shanghai Pudong Hotel or similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 1033", 
+            "HT_TRIPLE" : "USD 874", 
+            "HT_SINGLE" : "USD 1461", 
+            "CH_W_BED" : "USD 776", 
+            "CH_WO_BED" : "USD 518", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5c2c7772482a76574c8cf9a1"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "Payments to be collected at the prevailing rate of exchange", 
+        "Sightseeing tours would have local english speaking guides", 
+        "Slab rate to be selected for the number of adults travelling together. Children refer to those who are under 12 years' old.", 
+        "The rates are subject to change without prior notice, due to the cost change of hotel ratesin case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "One shop stop in each city. Shop-stop is compulsory for entry only, no force on buying stuff.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00.", 
+        "No refund for un-used tours, rooms, meals, and transfer service.", 
+        "Compulsory Shopping stops: Jade factory (Beijing), Crockery Factory (Xian), Silk factory(Shanghai)."
+    ], 
+    "exclusion" : [
+        "Airfare", 
+        "Airport Taxes", 
+        "Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Gratuities expected by Bell staff, Restaurant, Transfer and Tour staff andDrivers", 
+        "Any meals other than specified above", 
+        "Any sightseeing, tours, transfers, event tickets & tours other than mentionedabove not mentioned in package inclusions", 
+        "Any item of personal nature like mini-bar, portage, tips, etc.", 
+        "High Season Surcharges as applicable", 
+        "Any item that is not mentioned in the above Tour Pricing includes"
+    ], 
+    "Inclusion" : [
+        "3 Nightsâ€™ Accommodation in Beijing in suggested or similar hotels", 
+        "3 Nightsâ€™ Accommodation in Shanghai in suggested or similar hotels", 
+        "Daily Breakfast except day 1", 
+        "English speaking local guide", 
+        "All Transfers and Sightseeing is on private basis (PVT)", 
+        "Trip to Great Wall of China in Beijing", 
+        "Full day city tour of Shanghai"
+    ], 
+    "created_on" : "2018-03-17T06:50:55.959+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Beijing", 
+            "day_detail" : "On arrival at Beijing, you will be met and transferred to hotel. Free on your own for the rest of the\r\nday. Overnight at the hotel in Beijing.", 
+            "day_number" : 1, 
+            "_id" : "5c2c7772482a76574c8cf9a0"
+        }, 
+        {
+            "day_header" : "Beijing", 
+            "day_detail" : "This morning we depart on a trip to Great Wall of China. Visit the Great wall at Juyong pass, Jade\r\nfactory, Photo stop at Olympic stadium. Overnight at the hotel in Beijing. (B)", 
+            "day_number" : 2, 
+            "_id" : "5c2c7772482a76574c8cf99f"
+        }, 
+        {
+            "day_header" : "Beijing", 
+            "day_detail" : "Today visit the Tiananmen square and Forbidden city, Summer Palace, later time free for few hours\r\nat the Xiushui market. Overnight at the hotel in Beijing. (B)", 
+            "day_number" : 3, 
+            "_id" : "5c2c7772482a76574c8cf99e"
+        }, 
+        {
+            "day_header" : "Beijing - Shanghai", 
+            "day_detail" : "Transfer you to the airport or train station to board your flight or train to Shanghai. Arrive in\r\nShanghai you will be met and transferred to the hotel. Overnight at the hotel in Shanghai. (B)", 
+            "day_number" : 4, 
+            "_id" : "5c2c7772482a76574c8cf99d"
+        }, 
+        {
+            "day_header" : "Shanghai", 
+            "day_detail" : "This morning we take you on a city tour of Shanghai. Places visited during the tour namely being,\r\nPeopleâ€™s Square, Silk factory, the 88th Floor of the Jinmao Tower, Bund area. Overnight at the hotel\r\nin Shanghai. (B)", 
+            "day_number" : 5, 
+            "_id" : "5c2c7772482a76574c8cf99c"
+        }, 
+        {
+            "day_header" : "Shanghai", 
+            "day_detail" : "Today we will proceed to visit Jade Buddha temple, Taobao Market, later time free for few hours at\r\nthe Nanjing Road for shopping. Overnight at the hotel in Shanghai. (B)", 
+            "day_number" : 6, 
+            "_id" : "5c2c7772482a76574c8cf99b"
+        }, 
+        {
+            "day_header" : "Depart Shanghai", 
+            "day_detail" : "This morning you will be transferred to the airport to board your flight back home or to your next\r\ndestination. (B)", 
+            "day_number" : 7, 
+            "_id" : "5c2c7772482a76574c8cf99a"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 4, 
+    "cost_amt" : 831, 
+    "cost_currency" : "USD", 
+    "inr_amt" : 30955, 
+    "fitMobileImages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_birds_nest_stadium_beijing_china-hd.jpg"
+    ]
+}
+{ 
+    "_id" : "5aaa5d394c041c1bb778faee", 
+    "package_id_INT" : 3949, 
+    "package_id" : "3949", 
+    "state_id" : 130, 
+    "package_name" : "ALL OF CHINA", 
+    "validity_from" : "2019-01-01T00:00:00.000+0000", 
+    "isActive" : true, 
+    "nights" : 9, 
+    "days" : 10, 
+    "stay" : "3N BEIJING - 2N XIAN - 2N GUILIN - 2N SHANGHAI", 
+    "pkg_cost" : "USD 1117", 
+    "created_by" : "EL1", 
+    "created_by_fullname" : "E05", 
+    "isCancelled" : true, 
+    "created_branch" : "HO", 
+    "continent" : "ASIA", 
+    "country" : "CHINA", 
+    "state" : "CHINA", 
+    "introduction" : "", 
+    "fitimages_country" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/CHINA/China.png", 
+    "__v" : 9, 
+    "mainImage" : "http://d3r8gwkgo0io6y.cloudfront.net//media/bucket///reed-flute-cave6.jpg", 
+    "daywise_images" : [
+
+    ], 
+    "fitimages" : [
+        "http://d3r8gwkgo0io6y.cloudfront.net/upload//tiananmen-entrance-of-forbidden-city.jpg", 
+        "http://d3r8gwkgo0io6y.cloudfront.net/upload//Yuyan-garden.jpg", 
+        "http://d3r8gwkgo0io6y.cloudfront.net/upload//beijing_great_wall_snake_across.jpg", 
+        "http://d3r8gwkgo0io6y.cloudfront.net/upload//jade-CU(1).jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Beijing : Xinzheju or similar + Shanghai : Rayfront Xuhui Hotel Shanghai or similar + Xi'an : Skytel Hotel Xi'an or similar + Guilin : Days Hotel Guilin Hotel or similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 1117", 
+            "HT_TRIPLE" : "USD 906", 
+            "HT_SINGLE" : "USD 1408", 
+            "CH_W_BED" : "USD 838", 
+            "CH_WO_BED" : "USD 560", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5cbac0bf2678ec0b02a4c0fb"
+        }, 
+        {
+            "HTL_NM1" : "Beijing : Jiangxi Grand Hotel or similar category\r\nShanghai : Days Hotel Fortune or similar category\r\nXi'an : Titan Central Park Hotel Xian or similar category\r\nGuilin : Days Hotel Guilin Hotel or similar category", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 1168", 
+            "HT_TRIPLE" : "USD 957", 
+            "HT_SINGLE" : "USD 1511", 
+            "CH_W_BED" : "USD 877", 
+            "CH_WO_BED" : "USD 586", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5cbac0bf2678ec0b02a4c0fa"
+        }, 
+        {
+            "HTL_NM1" : "Beijing : Jianguo Garden Hotel or similar category\r\nShanghai : Renaissance Shanghai Yu Garden Hotel or similar category\r\nXi'an : Xi'an Jianguo Hotel or similar category\r\nGuilin : Lijiang Waterfall Hotel Guilin or similar category", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 1343", 
+            "HT_TRIPLE" : "USD 1132", 
+            "HT_SINGLE" : "USD 1861", 
+            "CH_W_BED" : "USD 1008", 
+            "CH_WO_BED" : "USD 673", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-01-01T00:00:00.000+0000", 
+            "VALID_TO" : "2019-12-31T00:00:00.000+0000", 
+            "_id" : "5cbac0bf2678ec0b02a4c0f9"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "Payments to be collected at the prevailing rate of exchange", 
+        "Sightseeing tours would have local english speaking guides", 
+        "The package cost is based on current currency exchange rate 1 US$ = 6.5 RMB", 
+        "Slab rate to be selected for the number of adults travelling together. Children refer to those who are under 12 years' old.\t", 
+        "The rates are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.\t\t\t\t\t\t\t\t\t\t", 
+        "One shop stop in each city. Shop-stop is compulsory for entry only, no force on buying stuff.\t\t\t\t\t\t\t\t\t", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00."
+    ], 
+    "exclusion" : [
+        "Airfare (International and domestic)", 
+        "Taxes", 
+        "Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Lunch and Dinner", 
+        "Tips to Driver and Guide ( it is complusory to Tip both individually )", 
+        "Personal expense", 
+        "High Season Surcharges as applicable", 
+        "Any item that is not mentioned in the above Tour Pricing includes"
+    ], 
+    "Inclusion" : [
+        "3 Nights Accommodation in Beijing", 
+        "2 Night Accommodation in X'ian", 
+        "2 Night Accommodation in Guilin", 
+        "2 Nights Accommodation in Shanghai", 
+        "Daily Breakfast except day 01.", 
+        "All Transfers and Sightseeing is on private basis (PVT)", 
+        "Trip to Great Wall of China in Beijing", 
+        "Trip To Tianmen Square, Forbidden City and Summer Palace in Beijing", 
+        "Full day tour to Terra cotta in X'ian", 
+        "Li River Cruise in Guilin", 
+        "Half day city tour of Shanghai", 
+        "Chinese lunches as stated in the itinerary.", 
+        "English speaking local guide"
+    ], 
+    "created_on" : "2018-03-15T11:47:05.802+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Beijing", 
+            "day_detail" : "On arrival at Beijing, you will be met and transferred to hotel. Free on your own for the rest of the\r\nday. \r\nOvernight at the hotel in Beijing.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f8"
+        }, 
+        {
+            "day_header" : "Beijing", 
+            "day_detail" : "This morning we depart on a trip to the Great Wall of China at Juyong Pass. Explore the history of a\r\nwall built hundreds of years ago, yet which remains largely intact as it snakes endlessly across the\r\nmountain ridgelines. On the way, visit the Jade Factory, back to the city for the Silk factory visit,\r\nEnroute Photo stop at Olympic stadium. \r\nOvernight at the hotel in Beijing. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f7"
+        }, 
+        {
+            "day_header" : "Beijing", 
+            "day_detail" : "This morning visit Tiananmen Square, Forbidden City, the largest and most complete group of\r\nancient buildings in China. The entire complex consists of 8,706 rooms in which an estimated 8,000\r\nto 10,000 people lived including 3,000 eunuchs, as well as maids and concubines, all within 170\r\nacres. Later visit the Summer palace. Free time for shopping Yaxiu market. \r\nOvernight at the hotel in Beijing. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f6"
+        }, 
+        {
+            "day_header" : "Beijing - Xian", 
+            "day_detail" : "This morning we transfer you to the airport or train station to board your flight or train to Xi'an.\r\nArrive in Xi'an you wil be met and transferred to the hotel. Later we take you on a city tour visiting\r\nthe City wall (photo stop), Big wild goose pagoda square with Fountain show. \r\nOvernight at the hotel in Xian. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f5"
+        }, 
+        {
+            "day_header" : "Xian", 
+            "day_detail" : "Proceed for tour to the famous Terra-cotta Warriors, one of the most significant archaeological\r\nexcavations of the 20th century. An army of thousands of life sized warriors and their horses in\r\nbattle formation, which were buried for 2000 years, stand guard over the tomb of Emperor Qin Shi-\r\nHuang. Later visit the Arts and Crockery Factory. Free shopping at the Muslim Bazaar. Overnight at\r\nthe hotel in Xian. Chinese lunch. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f4"
+        }, 
+        {
+            "day_header" : "Xian - Guilin", 
+            "day_detail" : "Fly to Guilin, a city set amid mountains, lakes and caves, on arrival Guilin you wil be met and\r\ntransferred to the hotel. Overnight at the hotel in Guilin. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f3"
+        }, 
+        {
+            "day_header" : "Guilin", 
+            "day_detail" : "Today visit Pearl factor, enjoy a ship cruise down the Li River (About 2hour) through a surrealistic\r\nlandscape of limestone karsts formations. Later visit Yangshuo West Street, a small market town,\r\nfree shopping in Yangshuo West Street market. Overnight at the hotel in Guilin. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 7, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f2"
+        }, 
+        {
+            "day_header" : "Guilin - Shanghai", 
+            "day_detail" : "This morning fly to Shanghai. On arrival, you will be met by our English-speaking guide and\r\ntransferred to hotel, Free on your own for the rest of the day to explore the city. \r\nOvernight at the hotel in shanghai. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 8, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f1"
+        }, 
+        {
+            "day_header" : "Shanghai", 
+            "day_detail" : "Today proceed to full day tour to the Jade Buddha temple, Silk Factory. Then visit the Bund, lined\r\nwith fine colonial buildings from the 1930's which have been restored as a showcase of the city and\r\nare spectacularly lit up at night. After that visit, the 88 th floor Jinmao Tower, and enjoy free\r\nshopping at Nanjing road. \r\nOvernight at the hotel in shanghai. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 9, 
+            "_id" : "5cbac0bf2678ec0b02a4c0f0"
+        }, 
+        {
+            "day_header" : "Depart Shanghai", 
+            "day_detail" : "Today, enjoy a journey on the magnetic train as you are transferred to the Pudong International\r\nairport for your flight back home, (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 10, 
+            "_id" : "5cbac0bf2678ec0b02a4c0ef"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "currency_code" : "USD", 
+    "isReadyToPublishOnWeb" : true, 
+    "tour_category" : "international", 
+    "validity_to" : "2019-12-31T00:00:00.000+0000", 
+    "cost_amt" : 1117, 
+    "cost_currency" : "USD", 
+    "inr_amt" : 43255, 
+    "fitMobileImages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_great-wall-of-china.jpg"
+    ]
+}
+{ 
+    "_id" : "59980026e851b5213c398e30", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "INDONESIA", 
+    "package_name" : "AMAZING BALI 1", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 494", 
+    "stay" : "4N BALI", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_5d1f7aaed08234fe7d27a2e2f50288c6.jpg", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2017-08-19T00:00:00.000+0000", 
+    "validity_to" : "2018-03-31T00:00:00.000+0000", 
+    "introduction" : "", 
+    "isActive" : false, 
+    "isReadyToPublishOnWeb" : false, 
+    "days" : 5, 
+    "nights" : 4, 
+    "package_id_INT" : 3537, 
+    "package_id" : "3537", 
+    "created_by" : "EL1", 
+    "country" : "INDONESIA", 
+    "daywise_images" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_thumb-1920-541025.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_bali-indonesia.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_danau-beratan.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_kintamani-volcano.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Sheraton Bali Kuta Resort or similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 495", 
+            "HT_TRIPLE" : "USD 459", 
+            "HT_SINGLE" : "USD 865", 
+            "CH_W_BED" : "USD 337", 
+            "CH_WO_BED" : "USD 138", 
+            "HT_EXTRA" : "_", 
+            "VALID_FROM" : "2017-08-19T00:00:00.000+0000", 
+            "VALID_TO" : "2018-03-31T00:00:00.000+0000", 
+            "_id" : "5bdaed832864e36b003a7f8b"
+        }
+    ], 
+    "offer" : [
+        "Spend Minimum 4 Nights stay and get upgrade to next room category (upto DLX Ocean Front)", 
+        "", 
+        "Enjoy Full Day tour to  Mengwi â€“ Bedugul â€“ Beratan Lake/Ulun Danu Temple â€“ Alas Kedaton â€“ Tanah Lot Temple Tour on Seat in Coach (SIC)", 
+        "Get 2 Free Coupon at Queens of India/Queens TandoorGolden Saffron Indian Restaurant without transfers", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "notes" : [
+        "All rates are based in US Dollars and minimum 2Pax travelling together at all tours", 
+        "", 
+        "High season surcharges will be appliacble for diwali, christmas & chinese new year", 
+        "Compulsary gala dinner will be applicable as per hotels for christmas and new year", 
+        "The passport should be valid for at least 6 months from the date of departure. We are not holding any hotel bookings at this point of time", 
+        "Confirmation of Hotels and other services is subject to availability. You can upgrade to an alternate room category and hotels by paying an extra cost. All rates and availability are subject to change at the time of booking", 
+        "Any type of mandatory fee like a resort fee / city tax etc. has to be paid at the hotel directly; the same is not a part of the package and cannot be pre-paid", 
+        "Above rates are not valid during any trade fair/special events, etc", 
+        "Above is just a quote and no services are confirmed at present. Rates are subject to availability at the time of booking", 
+        "Seat in Coach Basis Tours-means NO HOTEL PICK UP/DROP OFF. Clients must make their own way to the boarding point.", 
+        "Admissions â€“ does not include transfer from hotel to Attraction Venue. Prices are subject to compliance with minimum head and room count Changes in either would affect net pricing.", 
+        "Optional Meals do not include transfers; the meal will be delivered to your hotel if the restaurant is not within walking distance.", 
+        "Seat in Coach (SIC) Basis Tour / Transfer pick-up depends on hotel location, if hotel is outside of pick-up zone, clients will have to make own arrangements. No Intercity surface transfers are included unless specified in the package.", 
+        ""
+    ], 
+    "exclusion" : [
+        "International ", 
+        "Airport taxes", 
+        "Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Gratuities expected by Bell staff, Restaurant, Transfer and Tour staff andDrivers.", 
+        "Any meals other than specified above", 
+        "Any sightseeing, tours, transfers, event tickets & tours other than mentioned above not mentioned in package inclusions", 
+        "Any item of personal nature like mini-bar, portage, tips, etc", 
+        "All entrance fees and excursions not mentioned above. Any other item or service not mentioned in the inclusions"
+    ], 
+    "Inclusion" : [
+        "Four Nights Accommodation in Bali", 
+        "Daily Breakfast except day 1", 
+        "Return airport transfers on private basis", 
+        "Full day tour to Mengwi â€“ Bedugul â€“ Lake Beratan & Ulun Danu Temple â€“ Kedaton Monkey Forest â€“ Tanah Lot Temple Tour on Seat in Coach (SIC)", 
+        "Full day tour to Kintamani Volcano View - Plantation â€“ Tegalaalang Rice Terrace â€“ Ubud Tour on Seat in Coach (SIC)", 
+        "2 Free Coupon at Queens of India/Queens Tandoor/Golden Saffron Indian Restaurant without transfers"
+    ], 
+    "created_on" : "2017-08-19T09:08:54.644+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Bali", 
+            "day_detail" : "On arrival at  Ngurah Rai International Airport you will be met by our local representative and will be transferred to the hotel. Rest of the day is at leisure. Overnight at the hotel in Bali.", 
+            "day_number" : 1, 
+            "_id" : "5bdaed832864e36b003a7f8a"
+        }, 
+        {
+            "day_header" : "Bali - -  Full day tour to Mengwi", 
+            "day_detail" : "This morning enjoy a full day tour to Mengwi then visit to Lake Beratan & Ulun Danu Temple, Kedaton Monkey Forest and Tanah Lot Temple Tour on Seat in Coach (SIC). Overnight at the hotel in Bali. (B)", 
+            "day_number" : 2, 
+            "_id" : "5bdaed832864e36b003a7f89"
+        }, 
+        {
+            "day_header" : "Bali", 
+            "day_detail" : "Today's day is at leisure. Overnight at the hotel in Bali.(B) One can opt for Half day trip to Dream Island Tour at an addtional cost", 
+            "day_number" : 3, 
+            "_id" : "5bdaed832864e36b003a7f88"
+        }, 
+        {
+            "day_header" : "Bali -  Full day Kintamani Volcano", 
+            "day_detail" : "This morning enjoy Full day Kintamani Volcano View with Plantation and Tegallalang Rice Terraces in Ubud, famous for its beautiful scenes of rice paddies. Later enjoy Ubud  Tour on Seat in Coach (SIC). Overnight at the hotel in Bali. (B)", 
+            "day_number" : 4, 
+            "_id" : "5bdaed832864e36b003a7f87"
+        }, 
+        {
+            "day_header" : "Depart Bali", 
+            "day_detail" : "This morning check out from the hotel and transfer to the Airport to board flight to next destination or to your hometown with lots of memories to cherish for a life time. (B)", 
+            "day_number" : 5, 
+            "_id" : "5bdaed832864e36b003a7f86"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 5, 
+    "cost_amt" : 494, 
+    "cost_currency" : "USD", 
+    "inr_amt" : 20254, 
+    "fitMobileImages" : [
+
+    ]
+}
+{ 
+    "_id" : "5ca1d15647fa1d0ca91a210f", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "INDONESIA", 
+    "package_name" : "BALI WITH NUSA PENIDA", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 199", 
+    "stay" : "3N BALI", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_nusa-penida-pasih-uwug-broken-beach-1024x683.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-04-01T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 4, 
+    "nights" : 3, 
+    "package_id_INT" : 4479, 
+    "package_id" : "4479", 
+    "created_by" : "EL1", 
+    "country" : "INDONESIA", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 199, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_tpoya-pakeh.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_nusa-penida-bali-indonesie-plage-kelingking-beach-01-couverture-1110x740.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_29e03a9ae7c661c161e9f74b2032ead8.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Zia Hotel Kuta or\r\nSimilar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 199", 
+            "HT_TRIPLE" : "USD 205", 
+            "HT_SINGLE" : "USD 245", 
+            "CH_W_BED" : "USD 154", 
+            "CH_WO_BED" : "USD 122", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5cc7dca95500d63d3a045799"
+        }, 
+        {
+            "HTL_NM1" : "Best Western Resort\r\nKuta or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 210", 
+            "HT_TRIPLE" : "USD 205", 
+            "HT_SINGLE" : "USD 269", 
+            "CH_W_BED" : "USD 155", 
+            "CH_WO_BED" : "USD 129", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5cc7dca95500d63d3a045798"
+        }, 
+        {
+            "HTL_NM1" : "Aryaduta Hotel or\r\nSimilar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 302", 
+            "HT_TRIPLE" : "USD 240", 
+            "HT_SINGLE" : "USD 452", 
+            "CH_W_BED" : "USD 189", 
+            "CH_WO_BED" : "USD 129", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5cc7dca95500d63d3a045797"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in US Dollars (USD) based minimum 2 Passengers travelling together.", 
+        "Payments to be collected at the prevailing rate of exchange at the day of final payment.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00.", 
+        "High season surcharges will be applicable for Diwali, Christmas, New Year & Chinese New Year.", 
+        "Compulsory gala dinner supplements as applicable", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "Above is just a quote and no services are confirmed at present. Rates are subject to availability at the time of booking.", 
+        "Seat in Coach Basis Tours-means NO HOTEL PICK UP/DROP OFF. Clients must make their own way to the boarding point.", 
+        "Optional Meals do not include transfers; the meal will be delivered to your hotel if the restaurant is not within walking distance.", 
+        "Seat in Coach (SIC) Basis Tour / Transfer pick-up depends on hotel location, if hotel is outside of pick-up zone, clients will have to make own arrangements. No Intercity surface transfers are included unless specified in the package."
+    ], 
+    "exclusion" : [
+        "Return Airfare", 
+        "Airport taxes", 
+        "Indonesia Visa", 
+        "Travel Insurance.", 
+        "GST of 5% on total package cost", 
+        "Guide and Driverâ€™s Tipping.", 
+        "Gratuities expected by Bell staff, Restaurant, Transfer and Tour staff and Drivers and Guide", 
+        "High Season Surcharges on will be applicable for Diwali, Christmas, New Year & Chinese New Year.", 
+        "Any meals other than specified above", 
+        "Any sightseeing, tours, transfers, event tickets & tours other than mentioned above not mentioned in package inclusions.", 
+        "Any item of personal nature like mini-bar, portage, tips, etc.", 
+        "All Entrance Fees And Excursions Not Mentioned Above, Any Other Item Or Service Not Mentioned In The Inclusions."
+    ], 
+    "Inclusion" : [
+        "Three Nights Accommodation in Bali at suggested hotels or similar.", 
+        "Daily breakfast except Day 1.", 
+        "Bounty Sunset Dinner Cruise with transfers on Seat in Coach (SIC) basis with buffet Indonesian dinner.", 
+        "Full Day Nusa Penida Island Tour with Lunch on Seat in Coach (SIC) basis.", 
+        "Water Sport including one round of banana boat, Parasailing, Jet Ski and transfers on Seat In Coach (SIC) basis.", 
+        "120 Mins Spa Treatment on Seat In Coach (SIC) basis.", 
+        "Return Airport Transfers on Private basis."
+    ], 
+    "created_on" : "2019-04-01T08:52:38.592+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "ARRIVAL BALI - BOUNTY SUNSET CRUISE", 
+            "day_detail" : "On arrival in bali you will be met by our local representative and be transferred to the hotel.\r\nThe rest of the day is free program. Pick up at the hotel around 16.00 and drive to Benoa\r\nharbor. Upon boarding the vessel you are welcomed with a selection of canapÃ©s to enjoy as you\r\nwait for the vessel to depart. During dinner you will be entertained by traditional Batak singers\r\non the main deck whilst taking in the cool night air, or if you prefer some quiet background\r\nmusic you may prefer to sit on the bridge deck. After dinner a colorful modern show begins on\r\nthe main deck and is followed by DJ music which continues through until the end of the cruise.\r\nOvernight at the hotel in Bali. (D)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5cc7dca95500d63d3a045796"
+        }, 
+        {
+            "day_header" : "BALI â€“ FULL DAY NUSA PENIDA ISLAND TOUR", 
+            "day_detail" : "Explore an untouched island and traditional village with a full-day, small-group tour of Nusa\r\nPenida from Sanur. See local neighborhoods as you visit the village by motorbike, then soak up\r\nthe sun on Uwug beach, where a stunning sea cliff arches over clear, tropical water. Snorkel,\r\nwalk and swim along a series of pristine beaches. Get a glimpse of local life in Toya Pakeh\r\nvillage, then climb an intricate staircase into Dalem Ped temple before returning to Sanur.\r\nOvernight at the hotel in Bali. (B,L)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5cc7dca95500d63d3a045795"
+        }, 
+        {
+            "day_header" : "BALI - WATER SPORT AT TANJUNG BENOA BEACH", 
+            "day_detail" : "Today you will be Picked up at 9.00AM. Departure for Water Sport at Tanjung Benoa Beach\r\nwith included 1 Parasailing, 1 Banana Boat and 1 Jet Ski. Other activities on personal account.\r\nAfternoon pamper your body with 120mins Spa Treatment. Overnight at the hotel in Bali. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5cc7dca95500d63d3a045794"
+        }, 
+        {
+            "day_header" : "DEPART BALI", 
+            "day_detail" : "Today you will be transferred to the airport for your flight back home or you could extend your\r\nholiday. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5cc7dca95500d63d3a045793"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 2
+}
+{ 
+    "_id" : "5c10fa74c83bd232362867f8", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "CAMBODIA", 
+    "package_name" : "AMAZING VIETNAM AND CAMBODIA", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 368", 
+    "stay" : "4 NIGHTS / 5 DAYS", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_reunification-palace.jpg", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-10-01T00:00:00.000+0000", 
+    "validity_to" : "2020-09-30T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 5, 
+    "nights" : 4, 
+    "package_id_INT" : 4351, 
+    "package_id" : "4351", 
+    "created_by" : "JD9", 
+    "country" : "CAMBODIA", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 368, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_boat-trip-on-mekong-river-to-phoenix-island.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_kaymakli-underground-city.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_siem-reap-web-ready.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Saigon : Liberty Park View Hotel or Similar + Siem Reap : New Riverside or Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 368", 
+            "HT_TRIPLE" : "USD 334", 
+            "HT_SINGLE" : "USD 609", 
+            "CH_W_BED" : "USD 295", 
+            "CH_WO_BED" : "USD 185", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7fd"
+        }, 
+        {
+            "HTL_NM1" : "Saigon : Aristo  Hotel or Similar + Siem Reap : Ibis Styles Hotel or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 385", 
+            "HT_TRIPLE" : "USD 351", 
+            "HT_SINGLE" : "USD 644", 
+            "CH_W_BED" : "USD 309", 
+            "CH_WO_BED" : "USD 194", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7fc"
+        }, 
+        {
+            "HTL_NM1" : "Saigon : Equatorial Hotel or Similar + Siem Reap : Lotus Blanc Resort or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 496", 
+            "HT_TRIPLE" : "USD 463", 
+            "HT_SINGLE" : "USD 867", 
+            "CH_W_BED" : "USD 397", 
+            "CH_WO_BED" : "USD 249", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7fb"
+        }, 
+        {
+            "HTL_NM1" : "Saigon : Liberty Park View Hotel or Similar + Siem Reap : New Riverside or Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 358", 
+            "HT_TRIPLE" : "USD 325", 
+            "HT_SINGLE" : "USD 591", 
+            "CH_W_BED" : "USD 287", 
+            "CH_WO_BED" : "USD 181", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7fa"
+        }, 
+        {
+            "HTL_NM1" : "Saigon : Aristo  Hotel or Similar + Siem Reap : Ibis Styles Hotel or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 377", 
+            "HT_TRIPLE" : "USD 344", 
+            "HT_SINGLE" : "USD 629", 
+            "CH_W_BED" : "USD 302", 
+            "CH_WO_BED" : "USD 190", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7f9"
+        }, 
+        {
+            "HTL_NM1" : "Saigon : Equatorial Hotel or Similar + Siem Reap : Lotus Blanc Resort or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 457", 
+            "HT_TRIPLE" : "USD 424", 
+            "HT_SINGLE" : "USD 789", 
+            "CH_W_BED" : "USD 366", 
+            "CH_WO_BED" : "USD 230", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da4673ca589901e7d34b7f8"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are per person in USD based on minimum 2 passengers travelling together.", 
+        "Final payments will be collected at the prevailing rate of exchange on the date of final payment.", 
+        "All rates are subject to availability at the time of booking.", 
+        "The above is just a quote & not a booking and the rates are subject to change without prior notice.", 
+        "Rates quoted are not applicable during trade fair periods, major holidays and other major events.", 
+        "In case the hotels quoted for above are not available we will offer a similar alternate hotel.", 
+        "Rates are subject to change without prior notice, due to the cost change of hotel.", 
+        "The rates are Valid for Indian Passport Holders.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00."
+    ], 
+    "exclusion" : [
+        "Airfare", 
+        "Airport Taxes", 
+        "Vietnam and Cambodia Visa", 
+        "Travel Insurance", 
+        "GST 5% on total package cost.", 
+        "Early check-in and late check-out", 
+        "Daily Lunch and Dinner", 
+        "Hotel/Room upgrade", 
+        "High season surcharges will be applicable if any.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Tip, drinks, personal expenses and others", 
+        "Any service not clearly mentioned in the program", 
+        "Compulsory Tips for tour guides and drivers"
+    ], 
+    "Inclusion" : [
+        "Two nights accommodation in Saigon at suggested hotel or similar.", 
+        "Two nights accommodation in Siem Reap at suggested boat or similar.", 
+        "Daily breakfast except day 1", 
+        "Meals as mentioned in the Itinerary.", 
+        "Mekong Delta and Cu Chi Tunnels on Seat in Coach basis (SIC)", 
+        "All transfers on Seat in Coach basis (SIC)", 
+        "Sightseeing and entrance fees as mentioned in the itinerary", 
+        "Local English speaking guides (different guides in different cities)"
+    ], 
+    "created_on" : "2018-12-12T12:09:24.407+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrival Saigon â€“ Saigon City Tour", 
+            "day_detail" : "Today arrive at Saigon (now known as Ho Chi Minh City) â€“ the most vibrant city of Vietnam. Upon arrival at the airport, transfered to the city centre to check in at the hotel.\r\nEvening, we start the city tour at the Reunification Palace, the witness of the fierce Vietnam War ended in 1975. The grand building today is a Museum and Hall of\r\nofficial receptions. Nearby the Palace is the colonial-styled Central Post Office, one of the cityâ€™s major landmarks. Have a walking tour on Nguyen Hue street to take the photos of the Opera House (outside) and the Ho Chi Minh Committee (outside). From here, walking to Ben Thanh Market one of the most typical symbol of Saigon to experience the daily life of the locals and do shopping the hand-made goods. Overnight at the hotel in Saigon.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5da4673ca589901e7d34b7f7"
+        }, 
+        {
+            "day_header" : "Saigon â€“ Mekong Delta â€“ Saigon", 
+            "day_detail" : "Today proceed to My Tho upon arrival, embark on the boat cruising on the mighty\r\nMekong River viewing the life to the local people live along the banks. We stop at one\r\nof 4 island in the area for sightseeing. After that you will embark on the small boats rowed the local people through the small cannels with water coconut tree to visit the local factories. There you will taste the honey tea and see the local people produce\r\nthe coconut candy milk and of course you also can try it or stroll in the garden where\r\nthe locals feed honeybee. After that enjoy the horse-cart trip through the tranquil\r\nroad of the village. Enjoy your light lunch at a local restaurant nearby Mekong River\r\nwith the Elephant Ear fist. Evening, drive back to Saigon with stop to visit Vinh Trang\r\npagoda, a famous pogoda in the area that its architecture is a mix of Chinese,\r\nCambodian, and French culture. Overnight at the hotel in Saigon. (B/L)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5da4673ca589901e7d34b7f6"
+        }, 
+        {
+            "day_header" : "Saigon â€“ Cu Chi Tunnels Tour â€“ Siem Reap", 
+            "day_detail" : "Today after breakfast visit Cu Chi Tunnels, one of the few remaining monuments to\r\nthe Vietnam War. Beneath the ground lie 200 km of tunnels, dug by hand and\r\ninhabited by the forces of the Vietnamese guerillas during the conflict. At its peak,\r\nprior to the Tet Offensive in 1968, the tunnel complex was base to almost 10,000\r\ntroops. To this day, it remains one of the most impressive examples of how fierce the\r\nwar used to be. You even can try to crawl some dozens of m on the tunnel\r\nunderground to have the real experience.\r\nThis afternoon, we transferred to the airport for flight to Siem Reap. Upon arrival in\r\nSiem Reap, pick up by our representative from the airport and transferred to the\r\nhotel. The day is at leisure. Overnight at the in Siem Reap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5da4673ca589901e7d34b7f5"
+        }, 
+        {
+            "day_header" : "Full Day Angkor Tour", 
+            "day_detail" : "This morning, we explore South Gate of Angkor Thom known as Big Angkor explore royal city and was the last capital of the Angkor Empire, The famous Bayon Temple\r\nwas an architectural muddle, in part because it was constructed in a somewhat\r\npiecemeal fashion for over a century. Terrace of the Elephants is an impressive, two\r\nand a half meter tall, 300 meter long terrace wall adorned with carved elephants and\r\ngradual that spans the heart of Angkor Thom in front of Baphuon - huge temple\r\nmountain in the heart of Angkor Thom, Royal Palace Area and Phimeanakas -\r\nimpressive rite and sandstone pyramid. Terrace of the Leper King is at the north end\r\nof the Terrace of the Elephants, a double terrace wall with deeply carved nag as,\r\ndemons and other mythological beings. Last visit Ta Prohm temple which is a\r\nwonderful combination of human genius and natural beauty. This afternoon we visit\r\nAngkor Wat temple, the Cambodia's ancient temple is one of the wonders of the\r\noriental world. It is a replica of the universe according to the Hindu mythology.\r\nAngkor Wat five famous towers rise into the sky, a geometrical arrangement of\r\nnumerous galleries, adorned with beliefs and the stone images of celestial Apsara\r\ndancers, as well as portals, chambers and courtyards. Overnight at the hotel in Siem\r\nReap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5da4673ca589901e7d34b7f4"
+        }, 
+        {
+            "day_header" : "Depart Siem Reap", 
+            "day_detail" : "This morning you will be transfer to airport for the flight back home or your next\r\ndestination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5da4673ca589901e7d34b7f3"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 5
+}
+{ 
+    "_id" : "5c14f135b9badd7e34537b6c", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "CAMBODIA", 
+    "package_name" : "BEST OF CAMBODIA", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 491", 
+    "stay" : "5 NIGHTS / 6 DAYS", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_royal_palace.jpg", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-10-01T00:00:00.000+0000", 
+    "validity_to" : "2020-09-30T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 6, 
+    "nights" : 5, 
+    "package_id_INT" : 4359, 
+    "package_id" : "4359", 
+    "created_by" : "JD9", 
+    "country" : "CAMBODIA", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 491, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_russian-night-market-phnom-penh-(1).jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_the-faces-which-contain-many-suppositions-in-bayon-temple.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Siem Reap : New Riverside\r\nHotel or Similar + Phnom Penh : Cardamom Hotel or Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 491", 
+            "HT_TRIPLE" : "USD 429", 
+            "HT_SINGLE" : "USD 844", 
+            "CH_W_BED" : "USD 394", 
+            "CH_WO_BED" : "USD 247", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda823"
+        }, 
+        {
+            "HTL_NM1" : "Siem Reap : Ibis Styles Hotel or Similar + Phnom Penh : Kravan Hotel or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 501", 
+            "HT_TRIPLE" : "USD 439", 
+            "HT_SINGLE" : "USD 867", 
+            "CH_W_BED" : "USD 401", 
+            "CH_WO_BED" : "USD 252", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda822"
+        }, 
+        {
+            "HTL_NM1" : "Siem Reap : Lotus Blanc\r\nResort or Similar + Phnom Penh : Sokha Phnom\r\nPenh Hotel or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 617", 
+            "HT_TRIPLE" : "USD 557", 
+            "HT_SINGLE" : "USD 1102", 
+            "CH_W_BED" : "USD 494", 
+            "CH_WO_BED" : "USD 310", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2019-10-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda821"
+        }, 
+        {
+            "HTL_NM1" : "Siem Reap : New Riverside\r\nHotel or Similar + Phnom Penh : Cardamom Hotel or Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 479", 
+            "HT_TRIPLE" : "USD 417", 
+            "HT_SINGLE" : "USD 822", 
+            "CH_W_BED" : "USD 384", 
+            "CH_WO_BED" : "USD 241", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-31T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda820"
+        }, 
+        {
+            "HTL_NM1" : "Siem Reap : Ibis Styles Hotel or Similar + Phnom Penh : Kravan Hotel or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 487", 
+            "HT_TRIPLE" : "USD 425", 
+            "HT_SINGLE" : "USD 838", 
+            "CH_W_BED" : "USD 390", 
+            "CH_WO_BED" : "USD 245", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-31T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda81f"
+        }, 
+        {
+            "HTL_NM1" : "Siem Reap : Lotus Blanc\r\nResort or Similar + Phnom Penh : Sokha Phnom\r\nPenh Hotel or Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "NA", 
+            "HT_TWIN" : "USD 558", 
+            "HT_TRIPLE" : "USD 497", 
+            "HT_SINGLE" : "USD 983", 
+            "CH_W_BED" : "USD 447", 
+            "CH_WO_BED" : "USD 281", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-05-31T00:00:00.000+0000", 
+            "VALID_TO" : "2020-09-30T00:00:00.000+0000", 
+            "_id" : "5da6bf23b3c56532c7bda81e"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are per person in USD based on minimum 2 passengers travelling together", 
+        "Final payments will be collected at the prevailing rate of exchange on the date of final payment.", 
+        "All rates are subject to availability at the time of booking.", 
+        "The above is just a quote & not a booking and the rates are subject to change without prior notice.", 
+        "Rates quoted are not applicable during trade fair periods, major holidays and other major events.", 
+        "In case the hotels quoted for above are not available we will offer a similar alternate hotel.", 
+        "Rates are subject to change without prior notice, due to the cost change of hotel.", 
+        "The rates are Valid for Indian Passport Holders.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00."
+    ], 
+    "exclusion" : [
+        "Airfare", 
+        "Airport Taxes", 
+        "Cambodia Visa", 
+        "Travel Insurance", 
+        "GST 5% on total package cost.", 
+        "Early check-in and late check-out", 
+        "Daily Lunch and Dinner", 
+        "Hotel/Room upgrade", 
+        "High season surcharges will be applicable if any", 
+        "Use of vehicle other than the specified itinerary", 
+        "Tip, drinks, personal expenses and others", 
+        "Any service not clearly mentioned in the program", 
+        "Compulsory Tips for tour guides and drivers"
+    ], 
+    "Inclusion" : [
+        "One nights accommodation in Phnom Penh at suggested hotel or similar.", 
+        "Four nights accommodation in Siem Reap at suggested boat or similar.", 
+        "Daily breakfast except day 1", 
+        "Meals as mentioned in the Itinerary.", 
+        "All transfers on Seat in Coach basis (SIC)", 
+        "Sightseeing and entrance fees as mentioned in the itinerary", 
+        "Local English speaking guides (different guides in different cities)"
+    ], 
+    "created_on" : "2018-12-15T12:19:01.824+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Phnom Penh City Tour", 
+            "day_detail" : "Welcome to Phnom Penh â€“ the city retains its traditional Khmer and colonial styles\r\nwith French villas and large tree-line side walk. Upon arrival in Phnom Penh, pick up\r\nby our representative from the airport and transferred to the hotel. Today after\r\nbreakfast, we will visit the impressive colourful Khmer-style royal palace complex\r\nbuild in 1866 by the Predecessors of King Norodom. Nearby is Silver pagoda (the\r\nemerald Buddha temple), where contain plenty of Buddha Statues decorated and\r\nmade by gold, diamond, gemstone and silver. We will stop at Independence monument and explore the National museum, a beautiful Khmer architecture\r\nbuilding contains more than 5000 art antiques made by bronze, wood, gold, silver,\r\ncopper, sandstone and others. We pass through the river-front park where 4 rivers\r\nmet at a junction include mystical Mekong. Walk up to sacred hill Phnom Daun Penh.\r\nOvernight at the hotel in Phnom Penh.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5da6bf23b3c56532c7bda81d"
+        }, 
+        {
+            "day_header" : "Phnom Penh City Tour To Siem Reap", 
+            "day_detail" : "This afternoon, we visit Tuol Sleng prison now is Genocide Museum, the most secret\r\npart of the Khmer Rouge regime. Itâ€™s also called S-21 (abbreviated for Security Office\r\n21), a Khmer Rouge's premier security camp, specifically designed for the\r\ninterrogation and extermination of anti-Angkor elements. Leave the relics of the bad\r\nhistory of Cambodia we go for shopping around Russian market.\r\nThis afternoon, we transfer to the airport / bus station for flight / express bus to Siem\r\nReap. Upon arrival in Siem Reap, pick up by our representative from the airport / bus\r\nstation and transferred to the hotel. Overnight at the hotel in Siem Reap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5da6bf23b3c56532c7bda81c"
+        }, 
+        {
+            "day_header" : "Full day Angkor Tour", 
+            "day_detail" : "This morning, we explore South Gate of Angkor Thom known as Big Angkor explore\r\nroyal city and was the last capital of the Angkor Empire, The famous Bayon Temple\r\nwas an architectural muddle, in part because it was constructed in a somewhat\r\npiecemeal fashion for over a century. Terrace of the Elephants is an impressive, two\r\nand a half meter tall, 300 meter long terrace wall adorned with carved elephants and\r\ngradual that spans the heart of Angkor Thom in front of Baphuon - huge temple\r\nmountain in the heart of Angkor Thom, Royal Palace Area and Phimeanakas -\r\nimpressive rite and sandstone pyramid. Terrace of the Leper King is at the north end\r\nof the Terrace of the Elephants, a double terrace wall with deeply carved nag as,\r\ndemons and other mythological beings. This afternoon we visit Angkor Wat temple, the Cambodia's ancient temple is one of the wonders of the oriental world. Masterpieces of decorative details as well as of architectural style, its awe-inspiring ruins survive as testament to the spectacular achievements of Southeast Asia's greatest civilization. It is a replica of the universe according to the Hindu mythology. It is composed by the Mount Meru, surrounded by the continents and the oceans. Its extraordinary bas-reliefs, describe some Khmer epics and myths. Angkor Wat's five famous towers rise into the sky, a geometrical arrangement of numerous galleries, adorned with beliefs and the stone images of celestial Apsara dancers, as well as portals, chambers and courtyards. Overnight at the hotel in Siem Reap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5da6bf23b3c56532c7bda81b"
+        }, 
+        {
+            "day_header" : "Full Day Angkor Tour", 
+            "day_detail" : "Today after breakfast proceed to visit Ta Prohm temple which is a wonderful\r\ncombination of human genius and natural beauty. Giant trees have grown here for centuries! Prasat Kravan was originally constructed by noblemen rather than a king. Banteay Kdei was built in sandstone, which has deteriorated quite badly. However, there remain some very beautiful lintels and pediments. Srah Srang is a royal pool was the King's bathing pond, where he washed with his many concubines each day.  Takeo - King Suryavarman it is a pyramid on 5 levels and is dedicated to Shiva. Thommanon - small attractive temple in very good condition, built at the same time as Angkor Wat. Chau Say Tevoda built during the second quarter of the 12th century opposite of Thommanon, it was dedicated to Shiva and Vishnu. \r\nThis afternoon, we overland to visit the highlights of the Grand Circuit including: Preah Khan - meaning The Sacred Sword, this temple was also built by Jayawarman VII and is famous for its immensely long cruciform corridors and delicate carvings. Neak Pean - This temple is a delicate highlight of Khmer art. Built by Jayavarman VII, this temple is the perfect representation of the heavens on earth. Ta Som was a small classic Bayon style monastic complex consisting of a relatively flat enclosure. East Mebon was built in the 10th Century by Rajendravarman, this temple was situated on a small island in the middle of the Oriental, or Eastern, Baray. Last visit Pre Rup was built in the 10th Century by Rajendravarman and enjoy sunset there. Overnight at the hotel\r\nin Seam Reap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5da6bf23b3c56532c7bda81a"
+        }, 
+        {
+            "day_header" : "Siem Reap City Tour â€“ Floating Village", 
+            "day_detail" : "This morning, we visit Wat Thmei (Killing Field) contains a unique glass-walled stupa\r\ncontaining the bones of victims of the Khmer Rouge. Some of the bones were\r\nrecovered from a nearby well while others are the remains of soldiers who died on a\r\nnearby battlefield. Continue to visit the \"Les Artisans d'Angkor â€“ Chantiers Ecole\" the\r\nFinest Authentic Khmer Arts and Crafts. Lunch at local restaurant. This afternoon we\r\nvisit Floating Villages, located south of Siem Reap. Take a ride in a traditional\r\nwooden boat on the Tonle Sap, the \"Great Lake\" of Cambodia and the largest in Asia.\r\nHere we will see plenty of examples of the Khmer way of life on the Tonle Sap. Then\r\nvisit Wat Bo, a highly respected pagoda founded in the 18th century, contains very\r\nunique wall paintings of the Reamker (Ramayana) that are said to be from late 19th\r\ncentury. We continue to one of the cityâ€™s lively open markets, Psar Chars, also called\r\nthe â€œOld Marketâ€. Overnight at the hotel in Siem Reap. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5da6bf23b3c56532c7bda819"
+        }, 
+        {
+            "day_header" : "Depart Siem Reap", 
+            "day_detail" : "This morning you will be transfer to airport for the flight back home or your next\r\ndestination. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5da6bf23b3c56532c7bda818"
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "__v" : 7
+}

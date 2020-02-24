@@ -1,0 +1,29 @@
+cd C:\Program Files\MariaDB 10.4\bin
+
+mysql -u root -p
+
+mysql -u root -p TLGALLTOOLS  < Desktop/21.11.18.web.dmp
+
+dump
+
+C:\Program Files\MariaDB 10.4\bin>mysqldump -u root -p fitpackagesjsontodb > C:\Users\shoaib\shoaib-works\final.dmp
+
+
+SQL FOR SETTING NUMBERS...........
+SET  @num := 0;
+
+UPDATE fit_package_catalog_basic SET no = @num := (@num+1);
+
+dumpt to xl
+SELECT   * FROM fit_package_catalog_basic INTO OUTFILE 'C:\Users\merit\Desktop\BASIC_1.csv'  COLUMNS  TERMINATED BY ','  OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+
+
+
+
+
+
+
+
+
+

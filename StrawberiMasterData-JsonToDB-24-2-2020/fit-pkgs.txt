@@ -1,0 +1,646 @@
+{ 
+    "_id" : "5dfcb110c004e67a4a0d0a90", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "MESMERISING SINGAPORE", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 909", 
+    "stay" : "5N SINGAPORE", 
+    "countryCount" : 1, 
+    "citiesCount" : 1, 
+    "startcity" : "SINGAPORE", 
+    "endcity" : "SINGAPORE", 
+    "agerange" : "1-80", 
+    "transport" : "CAR", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_https---blogs-imagesforbescom-alexcapri-files-2018-09-singapore-1200x800.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" : "2020-01-02T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 6, 
+    "nights" : 5, 
+    "package_id_INT" :4741, 
+    "package_id" : "4741", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 909, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_1gardens-by-the-bay-01.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_10121736-001-image-36334_cover_2000x1610.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_jpg.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_floating-donut-company-boat.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_uss-lost-world-jurassic-park-rapid-adventure-1366x666.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Hotel Aqueen Lavender\r\nor Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 909", 
+            "HT_TRIPLE" : "SGD 919", 
+            "HT_SINGLE" : "SGD 1305", 
+            "CH_W_BED" : "SGD 895", 
+            "CH_WO_BED" : "SGD 575", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9cdc004e67a4a0d0d1a"
+        }, 
+        {
+            "HTL_NM1" : "Hotel Royal @ Queens or\r\nSimilar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 979", 
+            "HT_TRIPLE" : "SGD 969", 
+            "HT_SINGLE" : "SGD 1445", 
+            "CH_W_BED" : "SGD 895", 
+            "CH_WO_BED" : "SGD 600", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9cdc004e67a4a0d0d19"
+        }, 
+        {
+            "HTL_NM1" : "One Farrer hotel & Spa\r\nor Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 1395", 
+            "HT_TRIPLE" : "SGD 1219", 
+            "HT_SINGLE" : "SGD 2289", 
+            "CH_W_BED" : "SGD 809", 
+            "CH_WO_BED" : "SGD 615", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9cdc004e67a4a0d0d18"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Passengers travelling together", 
+        "Prices not valid during Block out Dates mentioned below AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 PM and Check Out time 12:00 Noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia (02-05 Mar 2020) and (30 Mar - 02 Apr 2020", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes"
+    ], 
+    "Inclusion" : [
+        "Five Nights Accommodation in Singapore city in suggested or similar hotels", 
+        "Daily breakfast except Day 1", 
+        "Floating Donut Admission Ticket - Sail around Marina Bay for 30 Minutes.", 
+        "4 hours Bicycle Tour – without transfers to the Meeting Point", 
+        "Guided - Yatch Tour Admission Ticket (Children 3 years and below – not allowed on cruise.)", 
+        "Sentosa Island tour on Seat in Coach basis (SIC)", 
+        "Universal Studio Singapore on Seat in Coach basis (SIC)", 
+        "Jurong Bird Park on Seat in Coach basis (SIC)", 
+        "Gardens by the Bay on Seat in Coach basis (SIC)", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers are on Seat in Coach basis (SIC)"
+    ], 
+    "destinationData" : [
+        {
+            "destination" : "", 
+            "lat" : null, 
+            "long" : null, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d17"
+        }
+    ], 
+    "created_on" : "2019-12-20T11:31:28.682+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Singapore – Night Safari (Optional)", 
+            "day_detail" : "Arrive at Singapore. Later in the evening Visit Night Safari (At an additional cost) enjoy Tram Ride,\r\nsee Creatures of Night Show and enjoy dinner in the unique environment of Night Safari. Overnight\r\nat the hotel in Singapore.", 
+            "meal" : "", 
+            "optionalTourDetails" : "Later in the evening Visit Night Safari (At an additional cost) enjoy Tram Ride,\r\nsee Creatures of Night Show and enjoy dinner in the unique environment of Night Safari.", 
+            "day_number" : 1, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d16", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Jurong Bird Park – Gardens by the Bay – Floating Donut", 
+            "day_detail" : "Visit Jurong Bird Park. Take a Panorail ride, See the Talking Birds, Penguin Parade, All Stars Birds\r\nShow and stroll along the rustic suspension bridge that offers a breath-taking view of the waterfall\r\nand Aviary. Encounter with Lorroloaf bird feeding in the park. City orientation tour includes the\r\nstatue of Sir Thomas Stamford Raffles, the Parliament House, Suntec City, Fountain of Wealth, City\r\nHall, Orchard Road, view Swiss-the tallest hotel in Singapore and enjoy Singapore river boat ride\r\nand take a photo stop at Merlion. Free time for shopping at Little India. Later Visit Gardens by the\r\nbay – A Spanning 101 hectares, this super park is home to over a quarter of a million rare plants.\r\nVisit Flower Dome, Cloud Forest Dome, take a walk on the skyway and enjoy the sound and light\r\nshow at The Supertree grove. Later, enjoy the night with the Floating Donut experience. Cruise\r\naway with your family, friends or colleagues on Marina Bay while savouring delectable food and\r\nenjoying the panoramic views. Cruise the waters around the amazing cityscape of Singapore’s\r\nMarina Bay, sipping wine or drinking a cold beer and eating yummy food. It has all you need for a\r\nfun boat cruise experience. Overnight at the hotel in Singapore. (B)\r\nNote : Floating Donut operating schedule\r\nThursday - Monday : 01.00 pm - 09.30 pm/ Wednesday : 04.00 pm - 09.30 pm/Tuesday : Closed", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" :2, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d15", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Bicycle tour – Yacht Tour", 
+            "day_detail" : "The tour curated along the line of a crafted story of Tan Ah Huat; his entrepreneur life, his friends,\r\nhis passion, and his love. As we cycle through the Trail of Tan Ah Huat, visitors will get to\r\nunderstand the contrasts of the modern Singapore versus the scenes back in 1920s with the aid of\r\nmultimedia slideshows and crafted story telling narrated by our guides. Visitors will get to learn\r\nabout the cultures and glimpse of history behind characters like Muhamad Zulfri(Malay\r\nFisherman), Mr Singh(Doorman), Lim Mei Hua as the story unfolds.\r\nAfter lunch, proceed for the Yacht tour. Cruise from Marina at Keppel Bay on a Yacht towards the\r\nSouthern Islands of Singapore. Enjoy the sea with refreshments and sea breeze. Be thrilled and\r\nsurprised to hear about Singapore ‘s rich coastal history and the stories of each island from the\r\nguide on board. Disembark at Kusu Island, or “Turtle Island”, to visit the ancient shrines of Chinese\r\nand Malay, as well as a turtle sanctuary, all on the same island !! Overnight at the hotel in\r\nSingapore. (B)\r\nNote : Cruise Days and Timings\r\nMondays to Fridays - Morning: 10:00am | Afternoon: 3:00pm, 5:30pm", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d14", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Singapore Flyer (Optional) – Sentosa Island", 
+            "day_detail" : "This morning experience the Singapore Flyer ride (At an additional cost) offering the breath-taking\r\npanorama of the shimmering Marina Bay waterfront and historical landmarks dotting the city\r\nskyline. Later proceed to Sentosa Island, enjoy the Cable Car ride from Mt. Faber to Sentosa Island.\r\nVisit Madame Tussaud's which displays an array of wax sculptures & other wax works, also enjoy\r\nMarvel 4D Cinema - an experience not to be missed. Along with Images of Singapore. Enjoy the\r\n'Wings of Time' - a spectacular night show set outdoors against the backdrop of an open sea in the\r\nevening. Take Sentosa Express (Monorail ride). Overnight at the hotel in Singapore. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" :"5dfcb9cdc004e67a4a0d0d13", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Universal Studios", 
+            "day_detail" : "Visit Universal studios at Resorts World to enjoy various activities at Lost World, Far Far Away,\r\nMadagascar, Hollywood, New York, Sci fi city & Ancient Egypt. Later visit to Trick Eye Museum an\r\nunique museum with a large array of 3-dimensional artwork for interactive optical illusions.\r\nOvernight at the hotel in Singapore. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d12", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Depart Singapore", 
+            "day_detail" : "This morning check out from the hotel and transfer to the airport for your flight back home. Tour\r\nConcludes.....!!! (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5dfcb9cdc004e67a4a0d0d11", 
+            "attImages" : [
+                ""
+            ]
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 2
+}
+
+{ 
+    "_id" : "5dfcb2cfc004e67a4a0d0b4a", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "SINGAPORE", 
+    "package_name" : "ENCHANTING SINGAPORE", 
+    "currency_code" : "SGD", 
+    "pkg_cost" : "SGD 665", 
+    "stay" : "4N SINGAPORE", 
+    "countryCount" : 1, 
+    "citiesCount" : 1, 
+    "startcity" : "SINGAPORE", 
+    "endcity" : "SINGAPORE", 
+    "agerange" : "1-80", 
+    "transport" : "CAR", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_singapore-webinar-ahero-t.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "sicCost" : null, 
+    "privateCost" : null, 
+    "airfareLowSeason" : "", 
+    "airfareSeason" : "", 
+    "airfarePickSeason" : "", 
+    "validity_from" :"2020-01-02T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 5, 
+    "nights" :4, 
+    "package_id_INT" : 4742, 
+    "package_id" : "4742", 
+    "created_by" : "EL1", 
+    "country" : "SINGAPORE", 
+    "cost_currency" : "SGD", 
+    "cost_amt" : 665, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_2merlion-park-and-marina-bay-1200x800.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_4universal-studios-singapore.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_2wings-of-time-01.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_3uss-far-far-away-shrek-4d-v2-1366x666.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_universal-studios-singapore-hollywood-dreams-light-up-parade.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Hotel Aqueen Lavender\r\nor Similar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 665", 
+            "HT_TRIPLE" : "SGD 675", 
+            "HT_SINGLE" : "SGD 989", 
+            "CH_W_BED" : "SGD 640", 
+            "CH_WO_BED" : "SGD 380", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9edc004e67a4a0d0d2b"
+        }, 
+        {
+            "HTL_NM1" : "Hotel Royal @ Queens or\r\nSimilar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 720", 
+            "HT_TRIPLE" : "SGD 715", 
+            "HT_SINGLE" : "SGD 1100", 
+            "CH_W_BED" : "SGD 639", 
+            "CH_WO_BED" : "SGD 405", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9edc004e67a4a0d0d2a"
+        }, 
+        {
+            "HTL_NM1" : "One Farrer hotel & Spa\r\nor Similar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "SGD 1055", 
+            "HT_TRIPLE" : "SGD 915", 
+            "HT_SINGLE" : "SGD 1775", 
+            "CH_W_BED" : "SGD 569", 
+            "CH_WO_BED" : "SGD 415", 
+            "HT_EXTRA" : "NA", 
+            "VALID_FROM" : "2020-01-02T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5dfcb9edc004e67a4a0d0d29"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in Singapore Dollars (SGD) based minimum 2 Adults travelling together at all tours.", 
+        "Prices not valid during Block out Dates mentioned Above AND Any Other NON Published Conferences/Special Events dates.", 
+        "The prices are subject to change without prior notice, due to the cost change of hotel rates in case of any event, like Trade Fair, Exhibition, important holidays, etc.", 
+        "The above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Check in time 2:00 pm and Check Out time 12:00 noon", 
+        "Any Late arrival and early Departure Transfer will be provided at a supplement cost.", 
+        "Christmas, New Year and Chinese New year Surcharges will be applicable."
+    ], 
+    "exclusion" : [
+        "Return Airfares", 
+        "Airport Taxes", 
+        "Singapore Visa", 
+        "Travel Insurance", 
+        "GST of 5% on total package cost", 
+        "Daily Lunch and Dinner", 
+        "Tips to Driver and Guide", 
+        "Personal expense", 
+        "Peak Season Dates : - 24, 25 Dec and 30 & 31 Dec 2019 / 01 Jan 2020, Chines New Year.", 
+        "Singapore Airshow (10-13 Feb 2020) / Food Hotel Asia(02-05 Mar 2020) and (30 Mar - 02 Apr 2020)", 
+        "High Season Surcharges as applicable on Christmas/ New Year/ Chinese New year etc.", 
+        "Use of vehicle other than the specified itinerary.", 
+        "Any item that is not mentioned in the above Tour Price includes"
+    ], 
+    "Inclusion" : [
+        "Four Nights Accommodation in Singapore city in suggested or similar hotels", 
+        "Daily breakfast except Day 1", 
+        "Half day Singapore city tour on Seat in Coach basis (SIC)", 
+        "Night Safari with Ulu Ulu Indian Buffet Dinner on Seat in Coach basis (SIC)", 
+        "Half day Sentosa Tour on Seat in Coach basis (SIC)", 
+        "Universal Studio Singapore on Seat in Coach basis (SIC)", 
+        "Gardens by the Bay on Seat in Coach basis (SIC)", 
+        "Return Airport transfers on Seat in Coach basis (SIC)", 
+        "All tours and transfers on on Seat in Coach basis (SIC)"
+    ], 
+    "destinationData" : [
+        {
+            "destination" : "", 
+            "lat" : null, 
+            "long" : null, 
+            "_id" : "5dfcb9edc004e67a4a0d0d28"
+        }
+    ], 
+    "created_on" : "2019-12-20T11:38:55.951+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "Arrive Singapore – Night Safari", 
+            "day_detail" : "On arrival in Changi International Airport you will be transferred to your hotel. Check in to the\r\nhotel. Later in the evening proceed to Night Safari, see Creatures of Night Show and enjoy dinner\r\nin the unique environment of Night Safari. Overnight at the hotel in Singapore. (D)", 
+            "meal" : "Dinner", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5dfcb9edc004e67a4a0d0d27", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Half day city tour & Sentosa Island", 
+            "day_detail" : "This morning we proceed on a half day city tour of Singapore visit Merlion Park, Chinatown, Mount\r\nFaber, Jewellery Factory, Chocolate Shop, Little India. Later in the evening proceed to Sentosa\r\nEnjoy the numerous attractions of the island with a day fun pass. Experience the Theme based\r\nCable Car ride from Mt. Faber to Sentosa Island. Visit Madamme Tussauds, Images of Singapore\r\nAlive, *Marvel 4D (New Super Hero Attraction), Merlion, watch the Wings of Time, a dazzling\r\ndisplay of water, laser and fire effects, set to majestic music and a panorama of breathtaking vistas.\r\nOvernight at the hotel in Singapore. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5dfcb9edc004e67a4a0d0d26", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Universal Studio – (Trick Eye Museum - Optional)", 
+            "day_detail" : "Today you will proceed to Universal Studio. Enjoy a day at the Universal Studios. Go beyond the\r\nscreen and Ride The Movies at Universal Studios Singapore. Only here can you experience cutting-\r\nedge rides, shows, and attractions based on your favourite blockbuster films and television series,\r\nincluding Transformers The Ride: The Ultimate 3D Battle, Shrek 4-D Adventure, Madagascar: A\r\nCrate Adventure, Jurassic Park Rapids Adventure, and more! Proceed for Trick Eye Museum (At an\r\nadditional cost). Forget about ordinary 3D exhibits in the museum! With Trick Eye Museum’s very\r\nown Augmented Reality Technology implemented onto the installations, you can be immersed with\r\nthe thrilling sound, lights and other effects that create realistic illusions. Overnight at the hotel in\r\nSingapore. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "Proceed for Trick Eye Museum (At an\r\nadditional cost). Forget about ordinary 3D exhibits in the museum! With Trick Eye Museum’s very\r\nown Augmented Reality Technology implemented onto the installations, you can be immersed with\r\nthe thrilling sound, lights and other effects that create realistic illusions.", 
+            "day_number" : 3, 
+            "_id" : "5dfcb9edc004e67a4a0d0d25", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Singapore – Gardens By the Bay", 
+            "day_detail" : "Today proceed for Gardens by the bay be mesmerised by stunning waterfront views at the award-\r\nwinning horticultural destination that is Gardens by the Bay. Gardens by the Bay offers an enjoyable\r\ntime for the entire family. Marvel at a city garden spanning 101 hectares of reclaimed land at\r\nGardens by the Bay. Overnight at the hotel in Singapore. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5dfcb9edc004e67a4a0d0d24", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "Depart - Singapore", 
+            "day_detail" : "This morning you will be transferred to Changi International Airport for your flight back home or\r\nyour next destination. (B)", 
+            "meal" : "Breakfast", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5dfcb9edc004e67a4a0d0d23", 
+            "attImages" : [
+                ""
+            ]
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "SUMMER"
+    ], 
+    "__v" : 2
+}
+{ 
+    "_id" : "5de105b5dd39a055814a495c", 
+    "tour_category" : "international", 
+    "continent" : "ASIA", 
+    "state" : "INDONESIA", 
+    "package_name" : "BALI FAMILY FUN", 
+    "currency_code" : "USD", 
+    "pkg_cost" : "USD 270", 
+    "stay" : "5N BALI", 
+    "mainImage" : "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/Front-Image-.jpg", 
+    "tourType" : "", 
+    "air_cost" : "", 
+    "visa_cost" : "", 
+    "validity_from" : "2019-04-01T00:00:00.000+0000", 
+    "validity_to" : "2020-03-31T00:00:00.000+0000", 
+    "productsAppDescription" : "", 
+    "introduction" : "", 
+    "isActive" : true, 
+    "isReadyToPublishOnWeb" : true, 
+    "days" : 6, 
+    "nights" : 5, 
+    "package_id_INT" : 4724, 
+    "package_id" : "4724", 
+    "created_by" : "EL1", 
+    "country" : "INDONESIA", 
+    "cost_currency" : "USD", 
+    "cost_amt" : 270, 
+    "__v" : 6, 
+    "daywise_images" : [
+
+    ], 
+    "fitMobileImages" : [
+
+    ], 
+    "fitimages" : [
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_im3hfzbgmavqdxmy1xgl.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_124281346182_48aa59dec0_o_edited-584a8ee15f9b58a8cde80897.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_17015830_10154515632888931_1877145227028070565_o.jpg", 
+        "https://d3r8gwkgo0io6y.cloudfront.net/upload/undefined/rsz_03-fastboat-lembongan-island.jpg"
+    ], 
+    "costing" : [
+        {
+            "HTL_NM1" : "Zia Hotel Kuta or\r\nSimilar", 
+            "CATEGORY" : "3 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 270", 
+            "HT_TRIPLE" : "USD 282", 
+            "HT_SINGLE" : "USD 347", 
+            "CH_W_BED" : "USD 211", 
+            "CH_WO_BED" : "USD 158", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5e33c83e2ad7b074aa642cc6"
+        }, 
+        {
+            "HTL_NM1" : "Best Western Resort\r\nKuta or Similar", 
+            "CATEGORY" : "4 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 291", 
+            "HT_TRIPLE" : "USD 282", 
+            "HT_SINGLE" : "USD 388", 
+            "CH_W_BED" : "USD 211", 
+            "CH_WO_BED" : "USD 170", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5e33c83e2ad7b074aa642cc5"
+        }, 
+        {
+            "HTL_NM1" : "Aryaduta Hotel or\r\nSimilar", 
+            "CATEGORY" : "5 STAR", 
+            "BASIS" : "-", 
+            "HT_TWIN" : "USD 444", 
+            "HT_TRIPLE" : "USD 341", 
+            "HT_SINGLE" : "USD 694", 
+            "CH_W_BED" : "USD 270", 
+            "CH_WO_BED" : "USD 170", 
+            "HT_EXTRA" : "-", 
+            "VALID_FROM" : "2019-04-01T00:00:00.000+0000", 
+            "VALID_TO" : "2020-03-31T00:00:00.000+0000", 
+            "_id" : "5e33c83e2ad7b074aa642cc4"
+        }
+    ], 
+    "offer" : [
+        ""
+    ], 
+    "notes" : [
+        "All rates are in US Dollars (USD) based minimum 2 Passengers travelling together.", 
+        "Payments to be collected at the prevailing rate of exchange at the day of final payment.", 
+        "Hotel check in is after 14:00 and checkout timing is before 12:00.", 
+        "High season surcharges will be applicable for Diwali, Christmas, New Year & Chinese New Year.", 
+        "Compulsory gala dinner supplements as applicable", 
+        "The passport should be valid for at least 6 months from the date of departure.", 
+        "Above Itinerary is a tentative Suggested Itinerary and not a confirmed Itinerary.", 
+        "Above is just a quote and no services are confirmed at present. Rates are subject to availability at the time of booking.", 
+        "Seat in Coach Basis Tours-means NO HOTEL PICK UP/DROP OFF. Clients must make their own way to the boarding point.", 
+        "Optional Meals do not include transfers; the meal will be delivered to your hotel if the restaurant is not within walking distance.", 
+        "Seat in Coach (SIC) Basis Tour / Transfer pick-up depends on hotel location, if hotel is outside of pick-up zone, clients will have to make own arrangements. No Intercity surface transfers are included unless specified in the package."
+    ], 
+    "exclusion" : [
+        "Return Airfare", 
+        "Airport taxes", 
+        "Indonesia Visa", 
+        "Travel Insurance.", 
+        "GST of 5% on total package cost", 
+        "Guide and Driver’s Tipping.", 
+        "Gratuities expected by Bell staff, Restaurant, Transfer and Tour staff and Drivers and Guide", 
+        "High Season Surcharges on will be applicable for Diwali, Christmas, New Year & Chinese New Year.", 
+        "Any meals other than specified above", 
+        "Any sightseeing, tours, transfers, event tickets & tours other than mentioned above not mentioned in package inclusions.", 
+        "Any item of personal nature like mini-bar, portage, tips, etc.", 
+        "All Entrance Fees And Excursions Not Mentioned Above, Any Other Item Or Service Not Mentioned In The Inclusions."
+    ], 
+    "Inclusion" : [
+        "Five Nights Accommodation in Bali at suggested hotels or similar.", 
+        "Daily breakfast except Day 1.", 
+        "Half Day Uluwatu Kecak Dance Tour on Priavte basis.", 
+        "Bali Safari & Marine Park with Jungle hopper pass on Private basis.", 
+        "Full Day Kintamani Volcano & Ubud Shopping Tour on Priavte basis.", 
+        "Water Sport including one round of banana boat, Parasailing, Jet Ski and transfers on Seat in Coach (SIC) basis.", 
+        "120 Mins Spa Treatment on Seat In Coach (SIC) basis.", 
+        "Return Airport Transfers on Private basis."
+    ], 
+    "created_on" : "2019-11-29T11:49:09.620+0000", 
+    "Itinerary" : [
+        {
+            "day_header" : "ARRIVE BALI & HALF DAY ULUWATU KECAK DANCE TOUR", 
+            "day_detail" : "Today greet and meet upon arrival at airport. Transfer to airport for your Hotel. The rest of the\r\nday is free program. Bali sunset experience starts at 16.30. You will be driven to Uluwatu, a\r\nbeautiful highland in the south of Bali. After 45 minutes drive, you will see the holy temple of\r\nPura Uluwatu, an exquisite monument perched above the sea and situated on a headland at the\r\nwesternmost tip of the peninsula. By 18.00 the epic Balinese Kecak dance performance starts.\r\nThe performance tells the story of an eternal love tale between Rama and Shinta and the\r\nstunning sunset background will complement an unforgettable experience. Overnight at the\r\nhotel in Bali.", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 1, 
+            "_id" : "5e33c83e2ad7b074aa642cc2", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "BALI – SAFARI MARINE PARK WITH JUNGLE HOPPER PASS", 
+            "day_detail" : "Enjoy Bali’s best safari experience at the home of amazing animals representing over 100\r\nspecies, including the rare and endangered Komodo Dragon, Orangutan, and the Bali Mynah.\r\nHave the chance to cuddle a baby orangutan, tiger, lion or leopard. Observe and get up close to\r\nover 60 different species as you enjoy a safari journey, on a tram, straight through animal\r\nenclosures. Overnight at the hotel in Bali. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 2, 
+            "_id" : "5e33c83e2ad7b074aa642cc1", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "BALI - FULL DAY KINTAMANI VOLCANO VIEW - UBUD VILLAGE TOUR", 
+            "day_detail" : "This morning Begin with a visit to Celuk famous for its gold and silver smith handicrafts and\r\nMas village for its finest artworks of woodcarving handicrafts. The journey to\r\nhighlands of Kintamani will be the highlight and memorable one of this trip. Enjoy the Bali’s\r\nmost spectacular and sensational crater rim of Mount Batur in which lies the shimmering Lake\r\nBatur. Afterwards, visit Ubud central market for traditional Balinese stuffs with bargaining skill\r\nis necessary. Overnight at the hotel in Bali. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 3, 
+            "_id" : "5e33c83e2ad7b074aa642cc0", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "BALI - WATER SPORT AT TANJUNG BENOA BEACH", 
+            "day_detail" : "Today you will be Picked up at 9.00AM. Departure for Water Sport at Tanjung Benoa Beach\r\nwith included 1 Parasailing, 1 Banana Boat and 1 Jet Ski. Other activities on personal account.\r\nAfternoon pamper your body with 120mins Spa Treatment. Overnight at the hotel in Bali. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 4, 
+            "_id" : "5e33c83e2ad7b074aa642cbf", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "DAY AT LEISURE – WHITE WATER RAFTING (OPTIONAL)", 
+            "day_detail" : "Today the day is at leisure to explore the Island on your own. Or you can opt for Optional\r\nactivity, you can enjoy white water rafting. Overnight at the hotel in Bali. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 5, 
+            "_id" : "5e33c83e2ad7b074aa642cbe", 
+            "attImages" : [
+                ""
+            ]
+        }, 
+        {
+            "day_header" : "DEPART BALI", 
+            "day_detail" : "Today you will be transferred to the airport for your flight back home or you could extend your\r\nholiday. (B)", 
+            "meal" : "", 
+            "optionalTourDetails" : "", 
+            "day_number" : 6, 
+            "_id" : "5e33c83e2ad7b074aa642cbd", 
+            "attImages" : [
+                ""
+            ]
+        }
+    ], 
+    "cities_included" : [
+
+    ], 
+    "countries_included" : [
+
+    ], 
+    "seasons" : [
+        "WINTER"
+    ], 
+    "destinationData" : [
+        {
+            "destination" : "", 
+            "lat" : null, 
+            "long" : null, 
+            "_id" : "5e33c83e2ad7b074aa642cc3"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "type": "ImportantIncidentInfo",
+    "incidentTimestamp": "2014-05-15T10:09:27.989-05:00",
+    "numOfMatches": 4,
+    "myReport": {
+        "docReports": {
+            "part1/.": {
+                "path": [
+                    "unknown"
+                ],
+                "myAnalysis": {
+                    "matches": [
+                        {
+                            "id": {
+                                "major": 1,
+                                "minor": 0
+                            },
+                            "name": "US SSN",
+                            "position": 13,
+                            "string": " 636-12-4567 "
+                        },
+                        {
+                            "id": {
+                                "major": 3,
+                                "minor": 0
+                            },
+                            "name": "MasterCard Credit Card Number",
+                            "position": 35,
+                            "string": " 5424-1813-6924-3685 "
+                        }
+                    ]
+                },
+                "cleanedUpData": [
+                    {
+                        "startPosition": 0,
+                        "endPosition": 65,
+                        "frameContent": ""
+                    }
+                ],
+                "minedMetadata": {
+                    "Content-Encoding": "ISO-8859-1",
+                    "Content-Type": "text/html; charset=iso-8859-1"
+                },
+                "deducedMetadata": {
+                    "Content-Type": "text/html; iso-8859-1"
+                }
+            },
+            "part2/.": {
+                "path": [
+                    "unknown"
+                ],
+                "patternAnalysis": {
+                    "matches": [
+                        {
+                            "id": {
+                                "major": 1,
+                                "minor": 0
+                            },
+                            "name": "SSN",
+                            "position": 3,
+                            "string": " 636-12-4567\r"
+                        },
+                        {
+                            "id": {
+                                "major": 3,
+                                "minor": 0
+                            },
+                            "name": "MasterCard Credit Card Number",
+                            "position": 18,
+                            "string": "\n5424-1813-6924-3685\r"
+                        }
+                    ]
+                },
+                "cleanedUpData": [
+                    {
+                        "startPosition": 0,
+                        "endPosition": 44,
+                        "frameContent": ""
+                    }
+                ],
+                "minedMetadata": {
+                    "Content-Encoding": "windows-1252",
+                    "Content-Type": "text/plain; charset=windows-1252"
+                },
+                "deducedMetadata": {
+                    "Content-Type": "text/plain; iso-8859-1"
+                }
+            }
+        }
+    },
+    "whatSetItOffEntry": {
+        "action": "Log",
+        "component": {
+            "type": "aComponent",
+            "components": [
+                {
+                    "type": "PatternComponent",
+                    "patterns": [
+                        1
+                    ],
+                    "not": false
+                }
+            ],
+            "not": false
+        },
+        "ticketInfo": {
+            "createIncident": true,
+            "tags": [],
+            "seeRestrictedIds": [
+                {
+                    "type": "userGroup",
+                    "name": "SiteMasters",
+                    "description": "Group for SiteMasters",
+                    "masters": [
+                        "04fb02a2bc0fba"
+                    ],
+                    "members": [],
+                    "id": "04fade"
+                }
+            ]
+        },
+        "letmeknowInfo": {
+            "createNotification": true,
+            "contactNames": [
+                "someguy@gmail.com"
+            ]
+        }
+    },
+    "seeRestrictedIds": [
+        "04fade66c0"
+    ],
+    "status": "New",
+    "timeStamps": [
+        "2014-03-15T10:09:27.989-05:00"
+    ],
+    "count": 1
+}

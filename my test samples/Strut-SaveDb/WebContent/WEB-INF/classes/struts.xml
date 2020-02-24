@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD  
+Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">  
+<struts>  
+  
+<package name="default" extends="struts-default">  
+  
+<action name="reg" class="com.shoaib.Action.SampleAction" method="execute">  
+<result name="success">/welcome2.jsp</result>  
+<result name="input">/index.jsp</result>  
+<result name="error">/error.jsp</result>
+</action>  
+  
+  <action name="log" class="com.shoaib.Action.LoginAction" method="execute">  
+<result name="success">/welcome.jsp</result>  
+<result name="input">/login.jsp</result>  
+<result name="error">/error2.jsp</result>
+</action> 
+</package>  
+</struts>      

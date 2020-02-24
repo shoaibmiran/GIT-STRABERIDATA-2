@@ -1,0 +1,159 @@
+-------------------------HOTEL TEMPLATE______________---------------
+
+{
+	"item_code": "Hotel Aqueen Lavender",
+	"price_category": "Budget",
+	"is_stock_item": false,
+	"variant_based_on": "Item Attribute",
+	"has_variants": true,
+	"item_name": "Hotel Aqueen Lavender",
+	"is_default": false,
+	"item_group": "Hotels",
+	"stock_uom": "Nos",
+	"item_defaults": [{
+		"company": "Strawberi"
+	}],
+	"include_item_in_manufacturing": false,
+	"attributes": [{
+		"attribute": "Category"
+	}, {
+		"attribute": "STAR Rating"
+	}, {
+		"attribute": "Sharing Mode"
+	}, {
+		"attribute": "Boarding Type"
+	}, {
+		"attribute": "Room Service"
+	}, {
+		"attribute": "Extra Night"
+	}],
+	"category": "Hotel"
+}
+
+
+
+-------------------HOTEL VARIATNS________________________________---
+
+
+{
+	"item_code": "Hotel Aqueen Lavender-001",
+	"price_category": "Budget",
+	"is_stock_item": true,
+	"variant_based_on": "Item Attribute",
+	"has_variants": false,
+	"item_name": "Hotel Aqueen Lavender-001 - 3*, Twin Sharing",
+	"is_default": false,
+	"item_group": "Hotels",
+	"stock_uom": "Nos",
+	"item_defaults": [{
+		"company": "Strawberi"
+	}],
+	"variant_of": "Hotel Aqueen Lavender",
+	"include_item_in_manufacturing": true,
+	"attributes": [{
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "Category",
+		"attribute_value": "Standard"
+	}, {
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "STAR Rating",
+		"attribute_value": "3 STAR"
+	}, {
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "Sharing Mode",
+		"attribute_value": "Twin"
+	}, {
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "Boarding Type"
+	}, {
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "Room Service",
+		"attribute_value": "No Room Service"
+	}, {
+		"variant_of": "Hotel Aqueen Lavender",
+		"attribute": "Extra Night",
+		"attribute_value": "No Extra Night"
+	}],
+	"category": "Hotel"
+}
+
+
+
+--------------------------------ATTRACTION ___________________________---
+
+
+{
+	"stock_uom": "Nos",
+	"item_code": "Tarkarli-Attraction-001",
+	"is_stock_item": true,
+	"item_defaults": [{
+		"company": "Strawberi"
+	}],
+	"has_variants": false,
+	"include_item_in_manufacturing": true,
+	"item_name": "Leisure day",
+	"is_default": false,
+	"category": "Sightseeing",
+	"item_group": "Sightseeing"
+}
+
+
+-------------------------------TRANSFER TEMPLATE__________________---
+
+
+{
+	"item_code": "Tarkarli-APT-001",
+	"price_category": "",
+	"is_stock_item": true,
+	"variant_based_on": "Item Attribute",
+	"description": "",
+	"has_variants": true,
+	"item_name": "Airport-Hotel Transfer",
+	"is_default": false,
+	"item_group": "Transport",
+	"stock_uom": "Nos",
+	"item_defaults": [{
+		"company": "Strawberi"
+	}],
+	"include_item_in_manufacturing": true,
+	"attributes": [{
+		"attribute": "Vehicle Type"
+	}, {
+		"attribute": "AC Type"
+	}, {
+		"attribute": "Transfer Type"
+	}, {
+		"attribute": "Group Size"
+	}, {
+		"attribute": "Age Group"
+	}],
+	"category": "Transfer"
+}
+
+
+
+--------------------------TRANSFER VARIATNS_____________________
+
+
+{
+	"item_code": "Tarkarli-APT-001-Shared Transfer (SIC)",
+	"price_category": "",
+	"is_stock_item": false,
+	"variant_based_on": "Item Attribute",
+	"has_variants": false,
+	"item_name": "Airport-Hotel Transfer-Shared Transfer (SIC)",
+	"is_default": false,
+	"item_group": "Transport",
+	"stock_uom": "Nos",
+	"item_defaults": [{
+		"company": "Strawberi"
+	}],
+	"variant_of": "Tarkarli-APT-001",
+	"include_item_in_manufacturing": false,
+	"attributes": [{
+		"variant_of": "Tarkarli-APT-001",
+		"attribute": "Transfer Type",
+		"attribute_value": "Shared"
+	}],
+	"category": "Transfer"
+}
